@@ -2,6 +2,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# RAG
+chroma_*
+chroma
+.DS_Store
+
 # C extensions
 *.so
 
@@ -128,6 +133,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.streamlit/
+secrets.toml
 
 # Spyder project settings
 .spyderproject
