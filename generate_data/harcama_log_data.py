@@ -2,8 +2,7 @@ import random
 import pandas as pd
 from datetime import datetime, timedelta
 
-
-def generate_data(start_date, num_days, num_records):
+def generate_data(start_date, num_days, num_records, categories, transaction_types):
     data = {
         "Tarih": [],
         "İşlem Türü": [],
@@ -11,16 +10,6 @@ def generate_data(start_date, num_days, num_records):
         "Harcama Kategorisi": [],
         "Açıklama": []
     }
-
-    categories = {
-        "Market": ["Migros", "Carrefour", "BIM"],
-        "Fatura Ödemesi": ["Elektrik", "Su", "İnternet"],
-        "ATM": ["ATM Çekimi"],
-        "Restoran": ["Kebapçı", "Pizza", "Cafe"],
-        "Ulaşım": ["Otobüs", "Taksi", "Tren"]
-    }
-
-    transaction_types = ["Alışveriş", "Fatura Ödemesi", "ATM Çekimi", "Restoran", "Ulaşım"]
 
     for _ in range(num_records):
         date = start_date + timedelta(days=random.randint(0, num_days - 1))
@@ -37,18 +26,60 @@ def generate_data(start_date, num_days, num_records):
     
     return pd.DataFrame(data)
 
-# Generating January 2024 data
-start_date_2024 = datetime(2024, 1, 1)
-df_2024 = generate_data(start_date_2024, 30, 500)
+# Define categories and transaction types for different months
+categories_jan = {
+    "Market": ["Migros", "Carrefour", "BIM"],
+    "Fatura Ödemesi": ["Elektrik", "Su", "İnternet"],
+    "ATM": ["ATM Çekimi"],
+    "Restoran": ["Kebapçı", "Pizza", "Cafe"],
+    "Ulaşım": ["Otobüs", "Taksi", "Tren"]
+}
+transaction_types_jan = ["Alışveriş", "Fatura Ödemesi", "ATM Çekimi", "Restoran", "Ulaşım"]
 
-# Generating February 2024 data
-start_date_feb_2024 = datetime(2024, 2, 1)
-df_feb_2024 = generate_data(start_date_feb_2024, 28, 500)
+categories_feb = {
+    "Market": ["A101", "Şok", "Metro"],
+    "Eğlence": ["Sinema", "Tiyatro", "Konser"],
+    "ATM": ["ATM Çekimi"],
+    "Restoran": ["Burger", "Sushi", "Pasta"],
+    "Sağlık": ["Doktor", "Eczane"]
+}
+transaction_types_feb = ["Alışveriş", "Eğlence", "ATM Çekimi", "Restoran", "Sağlık"]
 
-# Merging the two dataframes
-merged_df = pd.concat([df_2024, df_feb_2024])
+categories_mar = {
+    "Giyim": ["Zara", "H&M", "LC Waikiki"],
+    "Fatura Ödemesi": ["Doğalgaz", "Su", "Elektrik"],
+    "ATM": ["ATM Çekimi"],
+    "Kafe": ["Starbucks", "Gloria Jeans", "Kahve Dünyası"],
+    "Seyahat": ["Uçak", "Otobüs", "Tren"]
+}
+transaction_types_mar = ["Alışveriş", "Fatura Ödemesi", "ATM Çekimi", "Kafe", "Seyahat"]
+
+categories_apr = {
+    "Eğitim": ["Kurs", "Seminer", "Kitap"],
+    "Fatura Ödemesi": ["Telefon", "İnternet", "Su"],
+    "ATM": ["ATM Çekimi"],
+    "Restoran": ["Fast Food", "Fine Dining", "Cafe"],
+    "Spor": ["Spor Salonu", "Ekipman", "Üyelik"]
+}
+transaction_types_apr = ["Alışveriş", "Eğitim", "Fatura Ödemesi", "Restoran", "Spor"]
+
+# Generating data for each month
+start_date_jan = datetime(2024, 1, 1)
+df_jan = generate_data(start_date_jan, 31, 500, categories_jan, transaction_types_jan)
+
+start_date_feb = datetime(2024, 2, 1)
+df_feb = generate_data(start_date_feb, 29, 300, categories_feb, transaction_types_feb)
+
+start_date_mar = datetime(2024, 3, 1)
+df_mar = generate_data(start_date_mar, 31, 600, categories_mar, transaction_types_mar)
+
+start_date_apr = datetime(2024, 4, 1)
+df_apr = generate_data(start_date_apr, 30, 400, categories_apr, transaction_types_apr)
+
+# Merging the dataframes
+merged_df = pd.concat([df_jan, df_feb, df_mar, df_apr])
 
 # Saving the merged dataframe to CSV
-merged_df.to_csv("harcama_gecmisi_ocak_subat.csv", index=False)
+merged_df.to_csv("harcama_gecmisi_ocak_subat_mart_nisan.csv", index=False)
 
 print("Done!!!")
