@@ -1,0 +1,1801 @@
+Tarih,İşlem Türü,Tutar,Harcama Kategorisi,Açıklama
+2024-01-19,Restoran,55.2,Market,BIM
+2024-01-29,ATM Çekimi,454.52,ATM,ATM Çekimi
+2024-01-02,Restoran,237.1,Fatura Ödemesi,Elektrik
+2024-01-29,Ulaşım,243.94,Market,Carrefour
+2024-01-29,Restoran,120.11,ATM,ATM Çekimi
+2024-01-20,ATM Çekimi,168.77,Market,Carrefour
+2024-01-30,Fatura Ödemesi,271.73,Fatura Ödemesi,İnternet
+2024-01-18,ATM Çekimi,457.23,Fatura Ödemesi,Su
+2024-01-09,Fatura Ödemesi,476.29,Market,Carrefour
+2024-01-28,Alışveriş,398.54,Ulaşım,Taksi
+2024-01-31,ATM Çekimi,26.21,Restoran,Pizza
+2024-01-18,Restoran,216.23,Restoran,Cafe
+2024-01-10,Restoran,95.47,Fatura Ödemesi,İnternet
+2024-01-15,Ulaşım,460.63,Fatura Ödemesi,Su
+2024-01-10,Restoran,445.68,Market,Migros
+2024-01-04,Fatura Ödemesi,208.32,Fatura Ödemesi,İnternet
+2024-01-06,Alışveriş,104.13,Restoran,Kebapçı
+2024-01-18,Restoran,488.86,Ulaşım,Taksi
+2024-01-09,Ulaşım,443.53,Ulaşım,Otobüs
+2024-01-13,Alışveriş,29.47,Ulaşım,Tren
+2024-01-22,Restoran,279.76,Fatura Ödemesi,Elektrik
+2024-01-05,Ulaşım,465.5,Restoran,Pizza
+2024-01-11,Alışveriş,145.84,Ulaşım,Tren
+2024-01-28,Ulaşım,375.91,Restoran,Pizza
+2024-01-07,Ulaşım,21.11,Market,BIM
+2024-01-26,Alışveriş,317.3,Restoran,Cafe
+2024-01-14,Restoran,360.38,Market,Migros
+2024-01-30,Ulaşım,413.2,ATM,ATM Çekimi
+2024-01-25,Ulaşım,445.5,Ulaşım,Tren
+2024-01-04,Fatura Ödemesi,201.76,Market,Migros
+2024-01-09,Alışveriş,430.26,Fatura Ödemesi,Elektrik
+2024-01-09,Fatura Ödemesi,70.71,Restoran,Cafe
+2024-01-03,Alışveriş,269.08,Market,Carrefour
+2024-01-18,Ulaşım,401.99,Fatura Ödemesi,İnternet
+2024-01-10,ATM Çekimi,274.99,Restoran,Pizza
+2024-01-31,ATM Çekimi,409.09,ATM,ATM Çekimi
+2024-01-14,Restoran,243.99,ATM,ATM Çekimi
+2024-01-16,Restoran,440.02,Ulaşım,Tren
+2024-01-15,Fatura Ödemesi,114.62,Market,BIM
+2024-01-01,Alışveriş,460.03,Ulaşım,Taksi
+2024-01-19,Restoran,422.63,Market,Carrefour
+2024-01-24,Alışveriş,391.0,Restoran,Kebapçı
+2024-01-08,Restoran,257.05,Restoran,Pizza
+2024-01-16,Ulaşım,71.8,ATM,ATM Çekimi
+2024-01-08,Restoran,50.94,ATM,ATM Çekimi
+2024-01-27,Alışveriş,76.57,Market,Carrefour
+2024-01-28,Alışveriş,69.87,Fatura Ödemesi,İnternet
+2024-01-07,Restoran,408.52,Market,Migros
+2024-01-29,Restoran,87.54,Market,BIM
+2024-01-10,Fatura Ödemesi,454.6,Market,Migros
+2024-01-26,ATM Çekimi,316.39,Market,Carrefour
+2024-01-10,ATM Çekimi,118.57,Restoran,Cafe
+2024-01-28,ATM Çekimi,454.57,Fatura Ödemesi,Elektrik
+2024-01-25,Alışveriş,246.51,ATM,ATM Çekimi
+2024-01-01,Restoran,465.29,Fatura Ödemesi,Su
+2024-01-10,Fatura Ödemesi,473.26,Fatura Ödemesi,Elektrik
+2024-01-28,Alışveriş,393.91,Fatura Ödemesi,Elektrik
+2024-01-31,ATM Çekimi,16.1,Fatura Ödemesi,İnternet
+2024-01-18,ATM Çekimi,343.01,ATM,ATM Çekimi
+2024-01-09,Alışveriş,122.31,Ulaşım,Otobüs
+2024-01-31,Restoran,141.1,Restoran,Cafe
+2024-01-05,Fatura Ödemesi,335.91,Ulaşım,Otobüs
+2024-01-10,Restoran,269.04,Restoran,Kebapçı
+2024-01-19,Fatura Ödemesi,493.16,Market,Migros
+2024-01-14,Ulaşım,187.59,Fatura Ödemesi,İnternet
+2024-01-17,Restoran,190.46,Market,BIM
+2024-01-01,Fatura Ödemesi,336.89,Restoran,Pizza
+2024-01-27,Restoran,183.97,Fatura Ödemesi,Elektrik
+2024-01-10,Restoran,408.02,Market,BIM
+2024-01-18,Alışveriş,92.32,Ulaşım,Otobüs
+2024-01-26,Restoran,251.86,Fatura Ödemesi,Su
+2024-01-15,Alışveriş,105.31,ATM,ATM Çekimi
+2024-01-12,ATM Çekimi,255.14,Restoran,Pizza
+2024-01-20,Fatura Ödemesi,291.45,Restoran,Cafe
+2024-01-10,Restoran,50.54,Market,BIM
+2024-01-27,Ulaşım,376.91,Fatura Ödemesi,İnternet
+2024-01-02,Ulaşım,483.5,Fatura Ödemesi,Elektrik
+2024-01-09,Ulaşım,489.75,ATM,ATM Çekimi
+2024-01-25,Ulaşım,133.09,Market,Carrefour
+2024-01-06,ATM Çekimi,464.69,Fatura Ödemesi,Elektrik
+2024-01-24,Restoran,490.39,Restoran,Kebapçı
+2024-01-16,Fatura Ödemesi,119.7,ATM,ATM Çekimi
+2024-01-19,ATM Çekimi,255.21,Ulaşım,Taksi
+2024-01-24,Restoran,164.19,Restoran,Kebapçı
+2024-01-19,Alışveriş,164.47,Restoran,Pizza
+2024-01-08,Alışveriş,383.68,ATM,ATM Çekimi
+2024-01-22,ATM Çekimi,355.59,Restoran,Pizza
+2024-01-23,Ulaşım,17.35,Restoran,Pizza
+2024-01-20,ATM Çekimi,31.79,Market,Migros
+2024-01-06,Ulaşım,497.99,Restoran,Pizza
+2024-01-03,Restoran,285.35,Fatura Ödemesi,İnternet
+2024-01-22,Fatura Ödemesi,395.34,Restoran,Kebapçı
+2024-01-22,Restoran,470.79,Market,BIM
+2024-01-12,Alışveriş,211.77,Market,Carrefour
+2024-01-11,Alışveriş,110.1,ATM,ATM Çekimi
+2024-01-17,Restoran,356.46,Ulaşım,Tren
+2024-01-15,Alışveriş,292.18,Market,BIM
+2024-01-04,Alışveriş,442.06,Fatura Ödemesi,İnternet
+2024-01-01,ATM Çekimi,446.83,Fatura Ödemesi,İnternet
+2024-01-30,Ulaşım,298.3,Ulaşım,Tren
+2024-01-11,Alışveriş,131.7,Market,Carrefour
+2024-01-30,Fatura Ödemesi,489.83,Ulaşım,Otobüs
+2024-01-08,ATM Çekimi,422.26,ATM,ATM Çekimi
+2024-01-07,Ulaşım,19.94,Fatura Ödemesi,Elektrik
+2024-01-29,Ulaşım,157.18,Market,Migros
+2024-01-05,Restoran,169.77,Restoran,Kebapçı
+2024-01-30,ATM Çekimi,264.06,Restoran,Pizza
+2024-01-22,Ulaşım,399.01,Restoran,Pizza
+2024-01-19,Ulaşım,273.33,Restoran,Pizza
+2024-01-23,Alışveriş,20.57,Restoran,Kebapçı
+2024-01-25,Fatura Ödemesi,398.94,Restoran,Cafe
+2024-01-03,ATM Çekimi,323.99,Ulaşım,Tren
+2024-01-14,Restoran,334.55,Fatura Ödemesi,Su
+2024-01-20,Alışveriş,277.38,Market,BIM
+2024-01-14,ATM Çekimi,307.5,Restoran,Kebapçı
+2024-01-25,Restoran,21.58,Market,BIM
+2024-01-04,Alışveriş,416.38,Market,BIM
+2024-01-01,Restoran,269.53,Restoran,Cafe
+2024-01-25,Fatura Ödemesi,15.05,Market,Migros
+2024-01-04,Alışveriş,228.61,Restoran,Pizza
+2024-01-15,Ulaşım,100.05,Fatura Ödemesi,Su
+2024-01-11,ATM Çekimi,420.83,Restoran,Pizza
+2024-01-22,Ulaşım,487.65,Market,Migros
+2024-01-02,Restoran,56.41,Ulaşım,Otobüs
+2024-01-10,Restoran,156.13,ATM,ATM Çekimi
+2024-01-15,Ulaşım,368.71,Restoran,Cafe
+2024-01-11,Fatura Ödemesi,417.75,Market,BIM
+2024-01-07,Fatura Ödemesi,135.91,Restoran,Pizza
+2024-01-24,Ulaşım,446.45,Restoran,Pizza
+2024-01-18,Ulaşım,351.25,Fatura Ödemesi,Su
+2024-01-23,Restoran,23.94,Restoran,Kebapçı
+2024-01-27,Fatura Ödemesi,346.98,Restoran,Cafe
+2024-01-21,Alışveriş,59.28,Ulaşım,Tren
+2024-01-30,Fatura Ödemesi,273.44,Fatura Ödemesi,İnternet
+2024-01-26,Ulaşım,141.61,Restoran,Pizza
+2024-01-25,Ulaşım,481.44,Fatura Ödemesi,Elektrik
+2024-01-11,Fatura Ödemesi,457.8,Restoran,Cafe
+2024-01-21,Restoran,230.1,Market,BIM
+2024-01-30,Ulaşım,184.81,Fatura Ödemesi,Elektrik
+2024-01-19,Restoran,154.17,Market,Migros
+2024-01-09,Alışveriş,411.17,Market,Carrefour
+2024-01-12,ATM Çekimi,452.17,Fatura Ödemesi,Su
+2024-01-14,Ulaşım,450.27,Fatura Ödemesi,Elektrik
+2024-01-26,Restoran,453.86,Ulaşım,Tren
+2024-01-12,Fatura Ödemesi,351.62,Ulaşım,Tren
+2024-01-31,Fatura Ödemesi,92.73,Restoran,Pizza
+2024-01-10,Restoran,168.58,Ulaşım,Tren
+2024-01-02,Alışveriş,404.48,Market,BIM
+2024-01-30,Alışveriş,89.72,Restoran,Cafe
+2024-01-15,Alışveriş,440.37,Fatura Ödemesi,Elektrik
+2024-01-18,Ulaşım,134.73,Restoran,Kebapçı
+2024-01-08,ATM Çekimi,379.3,Ulaşım,Tren
+2024-01-18,Ulaşım,346.49,Restoran,Pizza
+2024-01-14,Fatura Ödemesi,399.72,Restoran,Kebapçı
+2024-01-09,Restoran,341.22,Restoran,Kebapçı
+2024-01-09,ATM Çekimi,164.38,Ulaşım,Otobüs
+2024-01-29,Fatura Ödemesi,153.83,Restoran,Pizza
+2024-01-22,Fatura Ödemesi,135.54,ATM,ATM Çekimi
+2024-01-06,Fatura Ödemesi,280.09,Market,BIM
+2024-01-01,Restoran,151.59,Market,BIM
+2024-01-27,Fatura Ödemesi,483.3,ATM,ATM Çekimi
+2024-01-23,Alışveriş,58.93,Market,Carrefour
+2024-01-17,Restoran,350.85,Ulaşım,Otobüs
+2024-01-31,Fatura Ödemesi,280.06,Fatura Ödemesi,Elektrik
+2024-01-17,Ulaşım,346.52,Fatura Ödemesi,Su
+2024-01-19,Fatura Ödemesi,180.26,Restoran,Cafe
+2024-01-14,Restoran,51.02,Fatura Ödemesi,İnternet
+2024-01-22,Restoran,313.84,Ulaşım,Tren
+2024-01-30,ATM Çekimi,323.66,Restoran,Kebapçı
+2024-01-30,Restoran,81.85,Fatura Ödemesi,Su
+2024-01-15,Alışveriş,423.77,Restoran,Cafe
+2024-01-09,Alışveriş,366.29,Market,Migros
+2024-01-30,ATM Çekimi,17.07,Fatura Ödemesi,Elektrik
+2024-01-19,Ulaşım,311.35,Ulaşım,Otobüs
+2024-01-12,ATM Çekimi,458.13,ATM,ATM Çekimi
+2024-01-02,Fatura Ödemesi,499.93,Ulaşım,Tren
+2024-01-19,Ulaşım,71.97,Market,Migros
+2024-01-15,Alışveriş,179.7,Ulaşım,Otobüs
+2024-01-09,Alışveriş,404.22,Market,BIM
+2024-01-07,Restoran,340.79,Fatura Ödemesi,İnternet
+2024-01-09,Restoran,69.12,ATM,ATM Çekimi
+2024-01-28,ATM Çekimi,408.89,Fatura Ödemesi,Su
+2024-01-23,Alışveriş,89.78,Ulaşım,Tren
+2024-01-08,Fatura Ödemesi,424.77,Fatura Ödemesi,İnternet
+2024-01-06,Fatura Ödemesi,238.73,Ulaşım,Otobüs
+2024-01-02,ATM Çekimi,43.33,Market,BIM
+2024-01-10,Fatura Ödemesi,301.48,Ulaşım,Tren
+2024-01-08,Restoran,427.96,ATM,ATM Çekimi
+2024-01-13,Restoran,258.7,Restoran,Pizza
+2024-01-07,ATM Çekimi,346.37,Market,BIM
+2024-01-09,Fatura Ödemesi,311.24,Ulaşım,Tren
+2024-01-22,Restoran,136.81,Fatura Ödemesi,İnternet
+2024-01-07,Ulaşım,44.51,ATM,ATM Çekimi
+2024-01-25,Restoran,203.5,ATM,ATM Çekimi
+2024-01-01,Ulaşım,188.79,ATM,ATM Çekimi
+2024-01-29,Alışveriş,360.27,ATM,ATM Çekimi
+2024-01-24,Alışveriş,387.54,Restoran,Pizza
+2024-01-19,Restoran,329.02,Restoran,Cafe
+2024-01-30,ATM Çekimi,219.75,Fatura Ödemesi,Elektrik
+2024-01-10,ATM Çekimi,397.76,Ulaşım,Taksi
+2024-01-02,ATM Çekimi,414.07,Restoran,Cafe
+2024-01-13,Ulaşım,333.77,Ulaşım,Taksi
+2024-01-16,Restoran,354.97,Fatura Ödemesi,Su
+2024-01-14,Fatura Ödemesi,29.71,Restoran,Pizza
+2024-01-09,Ulaşım,86.92,Fatura Ödemesi,İnternet
+2024-01-22,Fatura Ödemesi,20.8,Restoran,Kebapçı
+2024-01-25,Ulaşım,45.39,ATM,ATM Çekimi
+2024-01-26,Ulaşım,155.54,Fatura Ödemesi,İnternet
+2024-01-04,ATM Çekimi,83.17,Fatura Ödemesi,Su
+2024-01-24,Ulaşım,180.0,Fatura Ödemesi,Elektrik
+2024-01-10,Restoran,475.32,Restoran,Kebapçı
+2024-01-20,Restoran,39.11,Ulaşım,Taksi
+2024-01-14,ATM Çekimi,468.15,Ulaşım,Tren
+2024-01-15,Restoran,161.72,Ulaşım,Tren
+2024-01-07,ATM Çekimi,277.36,Ulaşım,Otobüs
+2024-01-12,Alışveriş,55.63,Fatura Ödemesi,Elektrik
+2024-01-22,Fatura Ödemesi,96.86,Fatura Ödemesi,İnternet
+2024-01-12,ATM Çekimi,252.33,Fatura Ödemesi,İnternet
+2024-01-03,Fatura Ödemesi,166.69,Fatura Ödemesi,Su
+2024-01-12,Alışveriş,101.6,Restoran,Kebapçı
+2024-01-31,Fatura Ödemesi,373.26,ATM,ATM Çekimi
+2024-01-08,Ulaşım,164.18,Market,BIM
+2024-01-25,Fatura Ödemesi,135.41,Ulaşım,Tren
+2024-01-10,ATM Çekimi,485.45,ATM,ATM Çekimi
+2024-01-16,Fatura Ödemesi,47.12,Ulaşım,Tren
+2024-01-15,Restoran,42.25,Ulaşım,Tren
+2024-01-03,Ulaşım,215.97,ATM,ATM Çekimi
+2024-01-15,Ulaşım,186.07,ATM,ATM Çekimi
+2024-01-24,Fatura Ödemesi,243.97,ATM,ATM Çekimi
+2024-01-16,Restoran,488.24,Market,Carrefour
+2024-01-19,Fatura Ödemesi,244.49,Ulaşım,Tren
+2024-01-19,Restoran,93.99,ATM,ATM Çekimi
+2024-01-26,Fatura Ödemesi,206.5,Ulaşım,Tren
+2024-01-16,Ulaşım,77.76,Market,BIM
+2024-01-13,Alışveriş,207.48,Restoran,Kebapçı
+2024-01-19,Restoran,238.66,Fatura Ödemesi,İnternet
+2024-01-31,Alışveriş,385.26,Fatura Ödemesi,İnternet
+2024-01-02,Alışveriş,318.65,Fatura Ödemesi,İnternet
+2024-01-04,Fatura Ödemesi,200.35,ATM,ATM Çekimi
+2024-01-08,Fatura Ödemesi,417.33,Market,Migros
+2024-01-02,ATM Çekimi,386.94,Restoran,Kebapçı
+2024-01-12,Alışveriş,304.11,Fatura Ödemesi,Su
+2024-01-25,Fatura Ödemesi,438.14,Ulaşım,Tren
+2024-01-28,Restoran,239.42,ATM,ATM Çekimi
+2024-01-11,Restoran,402.92,Restoran,Pizza
+2024-01-22,Restoran,142.09,Market,Migros
+2024-01-08,Ulaşım,450.09,Fatura Ödemesi,Elektrik
+2024-01-26,Alışveriş,259.8,Market,Carrefour
+2024-01-31,Fatura Ödemesi,131.15,Restoran,Pizza
+2024-01-27,Ulaşım,356.76,Fatura Ödemesi,Elektrik
+2024-01-17,Fatura Ödemesi,422.87,Market,BIM
+2024-01-27,ATM Çekimi,357.51,Ulaşım,Taksi
+2024-01-20,Fatura Ödemesi,235.7,Ulaşım,Tren
+2024-01-20,Fatura Ödemesi,308.21,Ulaşım,Taksi
+2024-01-22,Alışveriş,343.47,ATM,ATM Çekimi
+2024-01-10,ATM Çekimi,425.24,Fatura Ödemesi,Su
+2024-01-07,Alışveriş,96.33,Market,BIM
+2024-01-23,Fatura Ödemesi,129.11,Restoran,Kebapçı
+2024-01-09,Fatura Ödemesi,271.01,ATM,ATM Çekimi
+2024-01-03,ATM Çekimi,82.03,Fatura Ödemesi,Elektrik
+2024-01-12,Alışveriş,371.72,Restoran,Kebapçı
+2024-01-23,Restoran,364.43,Ulaşım,Otobüs
+2024-01-21,Restoran,362.41,ATM,ATM Çekimi
+2024-01-27,Alışveriş,83.88,Market,BIM
+2024-01-17,ATM Çekimi,30.81,Restoran,Kebapçı
+2024-01-30,Restoran,492.15,Market,Carrefour
+2024-01-26,Restoran,169.14,Restoran,Pizza
+2024-01-26,Fatura Ödemesi,432.6,Restoran,Pizza
+2024-01-18,Fatura Ödemesi,412.52,Fatura Ödemesi,İnternet
+2024-01-02,Fatura Ödemesi,126.34,Ulaşım,Tren
+2024-01-14,Ulaşım,395.84,Ulaşım,Taksi
+2024-01-06,Fatura Ödemesi,316.5,ATM,ATM Çekimi
+2024-01-14,Fatura Ödemesi,463.32,Fatura Ödemesi,Su
+2024-01-27,Alışveriş,435.35,Restoran,Cafe
+2024-01-02,ATM Çekimi,285.68,Ulaşım,Otobüs
+2024-01-02,Alışveriş,383.39,ATM,ATM Çekimi
+2024-01-30,ATM Çekimi,185.36,Ulaşım,Taksi
+2024-01-08,Restoran,20.35,ATM,ATM Çekimi
+2024-01-29,Alışveriş,420.26,ATM,ATM Çekimi
+2024-01-25,Alışveriş,274.56,Restoran,Pizza
+2024-01-04,ATM Çekimi,264.94,Ulaşım,Tren
+2024-01-06,Restoran,230.68,Market,BIM
+2024-01-15,Alışveriş,344.94,Restoran,Kebapçı
+2024-01-15,Fatura Ödemesi,290.93,Market,BIM
+2024-01-05,Alışveriş,370.18,Fatura Ödemesi,İnternet
+2024-01-25,Restoran,114.63,ATM,ATM Çekimi
+2024-01-26,Alışveriş,393.32,Market,Carrefour
+2024-01-25,Ulaşım,121.67,ATM,ATM Çekimi
+2024-01-09,Alışveriş,474.59,Market,Migros
+2024-01-05,Restoran,40.52,Market,BIM
+2024-01-19,Ulaşım,44.1,ATM,ATM Çekimi
+2024-01-16,Fatura Ödemesi,464.84,Market,Migros
+2024-01-10,Fatura Ödemesi,392.23,Fatura Ödemesi,İnternet
+2024-01-18,ATM Çekimi,254.23,ATM,ATM Çekimi
+2024-01-10,Alışveriş,464.22,ATM,ATM Çekimi
+2024-01-20,ATM Çekimi,119.61,ATM,ATM Çekimi
+2024-01-22,Restoran,443.17,Fatura Ödemesi,İnternet
+2024-01-04,Fatura Ödemesi,417.13,Restoran,Cafe
+2024-01-10,Ulaşım,407.88,ATM,ATM Çekimi
+2024-01-04,Alışveriş,238.72,ATM,ATM Çekimi
+2024-01-25,Restoran,28.8,ATM,ATM Çekimi
+2024-01-30,Alışveriş,357.1,Fatura Ödemesi,İnternet
+2024-01-10,Restoran,86.98,Market,Migros
+2024-01-07,Restoran,21.36,Fatura Ödemesi,Elektrik
+2024-01-18,Alışveriş,207.2,Restoran,Pizza
+2024-01-20,ATM Çekimi,51.49,Market,Migros
+2024-01-19,Ulaşım,353.59,Market,Migros
+2024-01-18,Alışveriş,95.6,Restoran,Pizza
+2024-01-13,Alışveriş,325.91,Market,Migros
+2024-01-17,Restoran,489.06,ATM,ATM Çekimi
+2024-01-09,Restoran,268.89,Restoran,Pizza
+2024-01-14,Ulaşım,65.09,Market,Carrefour
+2024-01-18,ATM Çekimi,375.34,ATM,ATM Çekimi
+2024-01-18,Restoran,321.9,Restoran,Kebapçı
+2024-01-26,ATM Çekimi,58.04,Ulaşım,Taksi
+2024-01-13,Fatura Ödemesi,498.33,ATM,ATM Çekimi
+2024-01-31,Restoran,233.71,ATM,ATM Çekimi
+2024-01-13,Fatura Ödemesi,61.91,Ulaşım,Taksi
+2024-01-22,ATM Çekimi,87.71,Fatura Ödemesi,İnternet
+2024-01-14,ATM Çekimi,388.91,Market,BIM
+2024-01-02,Fatura Ödemesi,209.12,Fatura Ödemesi,İnternet
+2024-01-02,Fatura Ödemesi,485.53,Restoran,Kebapçı
+2024-01-16,Alışveriş,266.47,Market,Carrefour
+2024-01-12,Ulaşım,192.15,Ulaşım,Otobüs
+2024-01-07,Fatura Ödemesi,248.39,Market,Carrefour
+2024-01-24,Alışveriş,490.35,Market,Carrefour
+2024-01-16,Fatura Ödemesi,134.52,ATM,ATM Çekimi
+2024-01-16,Ulaşım,67.87,ATM,ATM Çekimi
+2024-01-18,Alışveriş,197.71,Ulaşım,Taksi
+2024-01-25,Ulaşım,136.01,Ulaşım,Taksi
+2024-01-26,Alışveriş,291.71,Market,Carrefour
+2024-01-11,Restoran,472.95,Fatura Ödemesi,Elektrik
+2024-01-26,Ulaşım,260.48,Fatura Ödemesi,İnternet
+2024-01-21,Fatura Ödemesi,437.67,Restoran,Cafe
+2024-01-18,Restoran,488.63,Ulaşım,Tren
+2024-01-07,Fatura Ödemesi,354.45,Market,BIM
+2024-01-06,Restoran,296.71,Market,BIM
+2024-01-12,Alışveriş,93.76,Restoran,Cafe
+2024-01-25,Ulaşım,370.82,Restoran,Cafe
+2024-01-05,Alışveriş,477.9,Market,Migros
+2024-01-24,Fatura Ödemesi,92.04,Ulaşım,Taksi
+2024-01-14,Fatura Ödemesi,120.85,Ulaşım,Taksi
+2024-01-23,Restoran,298.76,Restoran,Kebapçı
+2024-01-11,Ulaşım,27.58,Fatura Ödemesi,Elektrik
+2024-01-22,ATM Çekimi,368.5,Restoran,Pizza
+2024-01-24,Ulaşım,221.33,Ulaşım,Tren
+2024-01-21,Alışveriş,461.5,Fatura Ödemesi,Su
+2024-01-09,ATM Çekimi,310.67,Fatura Ödemesi,Su
+2024-01-01,Restoran,109.7,ATM,ATM Çekimi
+2024-01-05,Ulaşım,198.69,ATM,ATM Çekimi
+2024-01-27,Restoran,441.4,Fatura Ödemesi,Elektrik
+2024-01-25,Restoran,383.85,Ulaşım,Tren
+2024-01-16,Ulaşım,252.41,Fatura Ödemesi,Elektrik
+2024-01-06,ATM Çekimi,301.26,Restoran,Kebapçı
+2024-01-02,Fatura Ödemesi,388.92,Ulaşım,Otobüs
+2024-01-20,ATM Çekimi,401.07,ATM,ATM Çekimi
+2024-01-02,Alışveriş,130.4,Ulaşım,Taksi
+2024-01-04,Alışveriş,252.97,Fatura Ödemesi,Elektrik
+2024-01-03,ATM Çekimi,78.27,Restoran,Kebapçı
+2024-01-07,Alışveriş,211.65,Restoran,Kebapçı
+2024-01-23,ATM Çekimi,405.9,Market,BIM
+2024-01-06,Ulaşım,428.3,Market,Migros
+2024-01-10,Restoran,366.22,Market,Migros
+2024-01-21,Restoran,113.06,Fatura Ödemesi,Elektrik
+2024-01-16,Ulaşım,436.07,Ulaşım,Taksi
+2024-01-06,Fatura Ödemesi,391.27,Market,BIM
+2024-01-28,ATM Çekimi,71.43,Fatura Ödemesi,İnternet
+2024-01-25,ATM Çekimi,315.42,Ulaşım,Otobüs
+2024-01-05,Restoran,386.36,Market,BIM
+2024-01-26,Fatura Ödemesi,493.1,ATM,ATM Çekimi
+2024-01-10,Alışveriş,199.93,Ulaşım,Tren
+2024-01-11,Ulaşım,48.71,ATM,ATM Çekimi
+2024-01-04,Ulaşım,448.09,Fatura Ödemesi,Su
+2024-01-03,Ulaşım,149.71,Market,BIM
+2024-01-13,Ulaşım,329.15,Market,BIM
+2024-01-20,ATM Çekimi,143.46,Restoran,Kebapçı
+2024-01-16,ATM Çekimi,77.64,Market,BIM
+2024-01-15,Fatura Ödemesi,152.95,Market,Migros
+2024-01-03,Restoran,497.21,Ulaşım,Taksi
+2024-01-25,Alışveriş,349.33,Ulaşım,Taksi
+2024-01-15,Ulaşım,439.72,Ulaşım,Tren
+2024-01-27,Ulaşım,309.86,Ulaşım,Taksi
+2024-01-19,Restoran,429.2,Market,Migros
+2024-01-25,Alışveriş,323.76,Fatura Ödemesi,Su
+2024-01-19,Fatura Ödemesi,142.08,Market,BIM
+2024-01-19,Restoran,436.89,Ulaşım,Taksi
+2024-01-18,ATM Çekimi,24.03,Ulaşım,Otobüs
+2024-01-22,Ulaşım,323.94,Ulaşım,Taksi
+2024-01-28,Ulaşım,294.29,ATM,ATM Çekimi
+2024-01-29,ATM Çekimi,149.65,ATM,ATM Çekimi
+2024-01-21,Alışveriş,61.7,ATM,ATM Çekimi
+2024-01-09,Alışveriş,378.2,Fatura Ödemesi,Su
+2024-01-24,Alışveriş,233.52,ATM,ATM Çekimi
+2024-01-24,Alışveriş,438.2,ATM,ATM Çekimi
+2024-01-09,Ulaşım,305.26,Restoran,Cafe
+2024-01-07,Ulaşım,75.77,Fatura Ödemesi,Su
+2024-01-27,ATM Çekimi,354.11,Fatura Ödemesi,Elektrik
+2024-01-18,Alışveriş,88.28,ATM,ATM Çekimi
+2024-01-07,Restoran,337.58,Market,Migros
+2024-01-23,Restoran,322.96,Market,BIM
+2024-01-28,Fatura Ödemesi,453.4,ATM,ATM Çekimi
+2024-01-24,ATM Çekimi,450.22,Restoran,Cafe
+2024-01-06,ATM Çekimi,86.35,ATM,ATM Çekimi
+2024-01-12,ATM Çekimi,371.51,Fatura Ödemesi,Su
+2024-01-09,Fatura Ödemesi,45.23,Ulaşım,Otobüs
+2024-01-26,Fatura Ödemesi,295.84,Ulaşım,Tren
+2024-01-26,Fatura Ödemesi,376.15,Market,Migros
+2024-01-16,Fatura Ödemesi,426.38,Fatura Ödemesi,Su
+2024-01-22,ATM Çekimi,332.26,Restoran,Cafe
+2024-01-22,Restoran,12.06,ATM,ATM Çekimi
+2024-01-18,Restoran,95.49,Fatura Ödemesi,Su
+2024-01-15,Fatura Ödemesi,167.77,Restoran,Kebapçı
+2024-01-11,ATM Çekimi,284.59,Fatura Ödemesi,İnternet
+2024-01-09,Ulaşım,92.12,Market,BIM
+2024-01-31,Restoran,166.39,Fatura Ödemesi,İnternet
+2024-01-14,Alışveriş,337.13,ATM,ATM Çekimi
+2024-01-17,Ulaşım,374.77,Market,Migros
+2024-01-20,Fatura Ödemesi,227.66,Restoran,Kebapçı
+2024-01-11,Ulaşım,311.89,Market,Carrefour
+2024-01-22,Fatura Ödemesi,66.45,Restoran,Kebapçı
+2024-01-02,Restoran,15.84,Fatura Ödemesi,Elektrik
+2024-01-27,Restoran,139.46,Market,BIM
+2024-01-02,Alışveriş,156.97,Ulaşım,Taksi
+2024-01-14,Restoran,418.28,ATM,ATM Çekimi
+2024-01-25,Alışveriş,148.0,Market,Migros
+2024-01-13,Restoran,196.79,Market,Migros
+2024-01-20,Alışveriş,250.49,Ulaşım,Taksi
+2024-01-28,Restoran,281.34,Fatura Ödemesi,Elektrik
+2024-01-11,Alışveriş,189.45,Restoran,Cafe
+2024-01-13,Fatura Ödemesi,388.22,Ulaşım,Taksi
+2024-01-01,Alışveriş,462.06,ATM,ATM Çekimi
+2024-01-08,Alışveriş,496.77,Market,Carrefour
+2024-01-01,ATM Çekimi,84.67,Restoran,Cafe
+2024-01-03,Restoran,249.94,Fatura Ödemesi,İnternet
+2024-01-24,Fatura Ödemesi,384.24,ATM,ATM Çekimi
+2024-01-01,Alışveriş,490.01,Restoran,Kebapçı
+2024-01-02,Alışveriş,385.73,ATM,ATM Çekimi
+2024-01-31,ATM Çekimi,311.68,Market,BIM
+2024-01-31,Restoran,336.14,ATM,ATM Çekimi
+2024-01-16,ATM Çekimi,92.74,ATM,ATM Çekimi
+2024-01-27,Restoran,298.93,Restoran,Kebapçı
+2024-01-18,Ulaşım,314.91,Fatura Ödemesi,Elektrik
+2024-01-23,Ulaşım,11.1,ATM,ATM Çekimi
+2024-01-06,ATM Çekimi,120.51,Restoran,Pizza
+2024-01-12,Alışveriş,95.49,ATM,ATM Çekimi
+2024-01-25,Restoran,137.23,ATM,ATM Çekimi
+2024-01-01,Fatura Ödemesi,336.36,Fatura Ödemesi,Su
+2024-01-04,ATM Çekimi,102.9,ATM,ATM Çekimi
+2024-01-01,ATM Çekimi,271.02,Market,Migros
+2024-01-14,ATM Çekimi,377.71,Market,Migros
+2024-01-20,Ulaşım,245.79,Restoran,Cafe
+2024-01-11,ATM Çekimi,176.13,Market,Migros
+2024-01-28,Fatura Ödemesi,261.72,Market,Carrefour
+2024-01-24,Fatura Ödemesi,10.88,Ulaşım,Tren
+2024-01-04,Alışveriş,234.17,ATM,ATM Çekimi
+2024-01-18,Restoran,59.59,Fatura Ödemesi,İnternet
+2024-01-28,Alışveriş,255.09,ATM,ATM Çekimi
+2024-01-07,ATM Çekimi,212.14,Ulaşım,Otobüs
+2024-01-01,Ulaşım,223.05,Fatura Ödemesi,Elektrik
+2024-01-03,Alışveriş,231.84,ATM,ATM Çekimi
+2024-01-14,Fatura Ödemesi,172.9,Restoran,Kebapçı
+2024-01-07,ATM Çekimi,355.07,Fatura Ödemesi,Elektrik
+2024-01-26,Restoran,82.11,Restoran,Pizza
+2024-01-22,Ulaşım,147.07,Market,Migros
+2024-01-14,Fatura Ödemesi,235.23,ATM,ATM Çekimi
+2024-01-12,Ulaşım,489.3,Fatura Ödemesi,İnternet
+2024-01-23,Fatura Ödemesi,65.6,Ulaşım,Tren
+2024-01-23,Ulaşım,191.22,Restoran,Cafe
+2024-01-28,Fatura Ödemesi,366.63,Fatura Ödemesi,Su
+2024-01-10,ATM Çekimi,28.82,Fatura Ödemesi,Elektrik
+2024-01-27,Fatura Ödemesi,74.95,Market,Carrefour
+2024-01-19,Alışveriş,37.11,Fatura Ödemesi,Su
+2024-01-14,Fatura Ödemesi,267.07,Fatura Ödemesi,İnternet
+2024-01-30,Restoran,57.16,Market,Migros
+2024-01-13,Ulaşım,435.27,Fatura Ödemesi,İnternet
+2024-01-21,Restoran,420.97,Restoran,Cafe
+2024-01-17,Fatura Ödemesi,177.37,Ulaşım,Otobüs
+2024-01-17,Ulaşım,103.8,Ulaşım,Otobüs
+2024-01-17,Fatura Ödemesi,401.58,Restoran,Cafe
+2024-01-26,ATM Çekimi,275.47,Ulaşım,Taksi
+2024-01-13,Fatura Ödemesi,415.96,Fatura Ödemesi,İnternet
+2024-01-10,Alışveriş,491.38,Ulaşım,Otobüs
+2024-01-21,ATM Çekimi,289.95,Ulaşım,Tren
+2024-01-13,ATM Çekimi,51.03,ATM,ATM Çekimi
+2024-01-14,Fatura Ödemesi,255.21,ATM,ATM Çekimi
+2024-01-28,Ulaşım,69.47,Restoran,Cafe
+2024-01-23,ATM Çekimi,143.68,Fatura Ödemesi,Su
+2024-01-14,ATM Çekimi,282.46,ATM,ATM Çekimi
+2024-01-10,Alışveriş,290.02,Ulaşım,Taksi
+2024-01-28,Ulaşım,35.61,Restoran,Cafe
+2024-01-25,Alışveriş,302.12,Fatura Ödemesi,Elektrik
+2024-01-06,Restoran,62.67,ATM,ATM Çekimi
+2024-01-26,Fatura Ödemesi,48.71,ATM,ATM Çekimi
+2024-01-14,ATM Çekimi,87.77,Restoran,Cafe
+2024-01-12,Fatura Ödemesi,477.08,ATM,ATM Çekimi
+2024-01-13,Fatura Ödemesi,454.44,Market,Migros
+2024-01-24,Restoran,182.04,Ulaşım,Otobüs
+2024-01-19,ATM Çekimi,285.6,ATM,ATM Çekimi
+2024-01-16,Restoran,191.39,Fatura Ödemesi,Su
+2024-01-20,Fatura Ödemesi,398.17,Restoran,Pizza
+2024-02-09,Alışveriş,67.98,ATM,ATM Çekimi
+2024-02-06,Eğlence,401.7,Sağlık,Eczane
+2024-02-27,Alışveriş,341.37,Sağlık,Doktor
+2024-02-17,ATM Çekimi,356.72,ATM,ATM Çekimi
+2024-02-26,Eğlence,120.08,ATM,ATM Çekimi
+2024-02-04,Alışveriş,193.97,Restoran,Pasta
+2024-02-14,Eğlence,78.42,Sağlık,Doktor
+2024-02-12,Eğlence,287.65,Market,Şok
+2024-02-21,Eğlence,417.7,Restoran,Pasta
+2024-02-24,Eğlence,481.54,ATM,ATM Çekimi
+2024-02-29,Restoran,175.94,ATM,ATM Çekimi
+2024-02-18,Eğlence,277.03,Sağlık,Doktor
+2024-02-01,ATM Çekimi,241.44,Eğlence,Konser
+2024-02-04,Alışveriş,429.66,Sağlık,Eczane
+2024-02-01,Alışveriş,215.85,Market,Metro
+2024-02-15,ATM Çekimi,52.81,Sağlık,Eczane
+2024-02-05,Restoran,445.18,Eğlence,Sinema
+2024-02-12,Eğlence,420.38,Market,Şok
+2024-02-28,Sağlık,312.53,Market,Metro
+2024-02-07,Eğlence,36.44,Market,Şok
+2024-02-07,Alışveriş,481.47,Market,Şok
+2024-02-20,Alışveriş,465.03,Eğlence,Konser
+2024-02-01,Restoran,86.0,Market,Metro
+2024-02-01,Restoran,446.57,ATM,ATM Çekimi
+2024-02-21,Restoran,122.57,Sağlık,Doktor
+2024-02-16,ATM Çekimi,333.46,ATM,ATM Çekimi
+2024-02-17,Eğlence,40.25,Eğlence,Konser
+2024-02-18,Alışveriş,27.82,Restoran,Pasta
+2024-02-16,Alışveriş,457.1,Sağlık,Eczane
+2024-02-27,Sağlık,20.97,Market,Şok
+2024-02-02,Restoran,405.45,Restoran,Sushi
+2024-02-09,Eğlence,109.88,Eğlence,Konser
+2024-02-14,ATM Çekimi,270.5,Market,Şok
+2024-02-23,Eğlence,155.46,Market,Şok
+2024-02-17,Sağlık,497.93,Market,A101
+2024-02-24,Eğlence,153.57,Restoran,Pasta
+2024-02-14,Restoran,453.62,Market,A101
+2024-02-28,ATM Çekimi,457.18,Restoran,Burger
+2024-02-01,ATM Çekimi,240.28,ATM,ATM Çekimi
+2024-02-05,Restoran,226.66,Sağlık,Eczane
+2024-02-16,Sağlık,263.65,ATM,ATM Çekimi
+2024-02-10,Alışveriş,142.5,ATM,ATM Çekimi
+2024-02-23,Alışveriş,412.75,Restoran,Pasta
+2024-02-28,Sağlık,132.0,ATM,ATM Çekimi
+2024-02-26,Restoran,128.1,Eğlence,Tiyatro
+2024-02-18,Eğlence,454.77,Sağlık,Eczane
+2024-02-05,Eğlence,410.12,Restoran,Burger
+2024-02-18,ATM Çekimi,437.03,Restoran,Burger
+2024-02-10,Eğlence,16.15,ATM,ATM Çekimi
+2024-02-17,Sağlık,338.71,Market,A101
+2024-02-29,Restoran,201.78,Restoran,Burger
+2024-02-11,Eğlence,89.64,Market,Şok
+2024-02-23,Sağlık,101.48,Sağlık,Eczane
+2024-02-15,Restoran,33.87,Restoran,Pasta
+2024-02-06,Alışveriş,212.78,Market,A101
+2024-02-27,Restoran,59.78,Eğlence,Tiyatro
+2024-02-20,Restoran,68.93,Eğlence,Sinema
+2024-02-29,ATM Çekimi,25.6,Sağlık,Eczane
+2024-02-27,Alışveriş,52.42,Eğlence,Tiyatro
+2024-02-11,Eğlence,277.51,Market,Şok
+2024-02-08,ATM Çekimi,233.79,Sağlık,Doktor
+2024-02-04,ATM Çekimi,457.99,Restoran,Pasta
+2024-02-25,ATM Çekimi,379.87,Eğlence,Konser
+2024-02-25,Eğlence,152.03,ATM,ATM Çekimi
+2024-02-08,Eğlence,309.29,Sağlık,Eczane
+2024-02-23,Eğlence,303.37,ATM,ATM Çekimi
+2024-02-05,Eğlence,448.31,Restoran,Sushi
+2024-02-19,Eğlence,138.02,Sağlık,Doktor
+2024-02-27,Eğlence,85.5,ATM,ATM Çekimi
+2024-02-11,Alışveriş,453.31,Market,A101
+2024-02-02,ATM Çekimi,67.94,Eğlence,Tiyatro
+2024-02-14,Restoran,155.48,Sağlık,Eczane
+2024-02-29,Eğlence,274.02,Sağlık,Eczane
+2024-02-01,Alışveriş,99.11,ATM,ATM Çekimi
+2024-02-17,Eğlence,247.68,Eğlence,Konser
+2024-02-25,ATM Çekimi,474.26,ATM,ATM Çekimi
+2024-02-12,Eğlence,246.73,ATM,ATM Çekimi
+2024-02-07,Eğlence,348.67,ATM,ATM Çekimi
+2024-02-20,Alışveriş,181.48,Restoran,Sushi
+2024-02-26,Eğlence,196.39,Eğlence,Tiyatro
+2024-02-11,Restoran,235.04,Eğlence,Tiyatro
+2024-02-25,ATM Çekimi,161.52,Eğlence,Tiyatro
+2024-02-05,Restoran,356.98,Eğlence,Sinema
+2024-02-29,Alışveriş,428.13,Sağlık,Eczane
+2024-02-10,Restoran,60.64,Restoran,Burger
+2024-02-25,Alışveriş,253.64,Restoran,Burger
+2024-02-05,ATM Çekimi,272.78,Sağlık,Doktor
+2024-02-07,ATM Çekimi,434.15,Sağlık,Eczane
+2024-02-06,Sağlık,67.81,Market,Metro
+2024-02-03,Restoran,263.77,Sağlık,Eczane
+2024-02-12,Sağlık,74.61,Eğlence,Konser
+2024-02-22,Sağlık,10.86,Sağlık,Doktor
+2024-02-29,Alışveriş,46.2,Market,A101
+2024-02-27,Alışveriş,57.98,Restoran,Sushi
+2024-02-29,Restoran,126.11,Restoran,Pasta
+2024-02-20,Restoran,399.88,ATM,ATM Çekimi
+2024-02-14,Eğlence,28.68,Restoran,Burger
+2024-02-18,Alışveriş,414.45,ATM,ATM Çekimi
+2024-02-21,Sağlık,299.47,ATM,ATM Çekimi
+2024-02-21,Sağlık,345.12,Restoran,Burger
+2024-02-28,Alışveriş,82.82,Market,Metro
+2024-02-10,ATM Çekimi,187.76,Market,A101
+2024-02-06,Eğlence,369.45,Restoran,Pasta
+2024-02-11,Eğlence,221.4,ATM,ATM Çekimi
+2024-02-07,ATM Çekimi,16.15,Market,Metro
+2024-02-11,ATM Çekimi,93.56,Eğlence,Tiyatro
+2024-02-22,ATM Çekimi,96.03,ATM,ATM Çekimi
+2024-02-11,ATM Çekimi,64.89,ATM,ATM Çekimi
+2024-02-24,Restoran,424.2,Sağlık,Doktor
+2024-02-25,Sağlık,103.44,Market,Şok
+2024-02-21,Sağlık,61.57,Eğlence,Konser
+2024-02-19,ATM Çekimi,390.93,Restoran,Pasta
+2024-02-11,Eğlence,299.82,ATM,ATM Çekimi
+2024-02-01,Eğlence,184.36,Sağlık,Eczane
+2024-02-02,Alışveriş,456.08,Market,A101
+2024-02-18,Alışveriş,27.28,Market,Metro
+2024-02-06,ATM Çekimi,237.42,Sağlık,Eczane
+2024-02-29,Sağlık,110.49,Sağlık,Doktor
+2024-02-15,Sağlık,484.17,ATM,ATM Çekimi
+2024-02-17,Alışveriş,125.92,Sağlık,Eczane
+2024-02-17,Alışveriş,139.9,Sağlık,Doktor
+2024-02-01,Alışveriş,108.05,Market,A101
+2024-02-14,Sağlık,238.56,Restoran,Burger
+2024-02-09,Sağlık,228.87,Restoran,Pasta
+2024-02-25,ATM Çekimi,421.54,ATM,ATM Çekimi
+2024-02-04,Restoran,117.17,ATM,ATM Çekimi
+2024-02-21,Sağlık,485.53,Sağlık,Eczane
+2024-02-20,Restoran,39.27,Eğlence,Konser
+2024-02-12,ATM Çekimi,130.48,Eğlence,Sinema
+2024-02-13,ATM Çekimi,297.86,Market,A101
+2024-02-18,Eğlence,427.23,Sağlık,Eczane
+2024-02-13,Sağlık,80.1,Sağlık,Eczane
+2024-02-08,ATM Çekimi,343.19,Eğlence,Sinema
+2024-02-12,Sağlık,458.59,Eğlence,Tiyatro
+2024-02-16,Restoran,19.88,Market,Şok
+2024-02-13,ATM Çekimi,148.23,Restoran,Pasta
+2024-02-10,ATM Çekimi,401.98,Restoran,Pasta
+2024-02-15,Sağlık,375.6,Market,A101
+2024-02-26,Restoran,261.97,Restoran,Sushi
+2024-02-11,Alışveriş,378.02,Market,Şok
+2024-02-21,Alışveriş,243.84,Market,A101
+2024-02-22,Alışveriş,121.72,ATM,ATM Çekimi
+2024-02-24,Alışveriş,499.09,Market,A101
+2024-02-15,ATM Çekimi,302.79,Restoran,Pasta
+2024-02-11,Restoran,169.96,Market,Şok
+2024-02-02,Eğlence,422.29,Eğlence,Konser
+2024-02-28,ATM Çekimi,366.45,Eğlence,Tiyatro
+2024-02-15,ATM Çekimi,430.28,ATM,ATM Çekimi
+2024-02-19,ATM Çekimi,221.87,ATM,ATM Çekimi
+2024-02-04,Sağlık,287.31,ATM,ATM Çekimi
+2024-02-21,Eğlence,410.36,Eğlence,Konser
+2024-02-20,Alışveriş,208.58,ATM,ATM Çekimi
+2024-02-09,Alışveriş,316.74,Restoran,Pasta
+2024-02-04,Alışveriş,188.49,Restoran,Sushi
+2024-02-21,Sağlık,321.42,Sağlık,Doktor
+2024-02-01,ATM Çekimi,469.4,Market,A101
+2024-02-06,Alışveriş,338.13,ATM,ATM Çekimi
+2024-02-22,Restoran,72.15,Restoran,Burger
+2024-02-10,Alışveriş,321.12,Market,Metro
+2024-02-29,Restoran,167.83,Eğlence,Tiyatro
+2024-02-16,Alışveriş,220.07,Market,Şok
+2024-02-24,ATM Çekimi,242.81,ATM,ATM Çekimi
+2024-02-08,ATM Çekimi,14.91,ATM,ATM Çekimi
+2024-02-21,Alışveriş,341.03,Eğlence,Sinema
+2024-02-27,ATM Çekimi,302.12,Market,Şok
+2024-02-06,Eğlence,240.52,ATM,ATM Çekimi
+2024-02-29,ATM Çekimi,228.6,Market,Metro
+2024-02-28,Eğlence,302.96,Market,Metro
+2024-02-19,Eğlence,127.48,Eğlence,Konser
+2024-02-12,ATM Çekimi,212.7,Restoran,Pasta
+2024-02-22,Sağlık,126.05,Sağlık,Doktor
+2024-02-17,ATM Çekimi,205.83,Eğlence,Tiyatro
+2024-02-16,Restoran,260.5,Restoran,Sushi
+2024-02-09,Alışveriş,183.57,ATM,ATM Çekimi
+2024-02-16,Sağlık,416.85,Market,A101
+2024-02-06,Alışveriş,443.64,Restoran,Burger
+2024-02-02,Sağlık,375.59,Sağlık,Doktor
+2024-02-20,Restoran,78.95,ATM,ATM Çekimi
+2024-02-03,Eğlence,314.6,Restoran,Burger
+2024-02-01,Alışveriş,396.44,Market,A101
+2024-02-20,ATM Çekimi,430.36,Eğlence,Tiyatro
+2024-02-21,Alışveriş,330.48,Eğlence,Sinema
+2024-02-21,Sağlık,304.2,Market,Şok
+2024-02-13,Alışveriş,483.57,Restoran,Pasta
+2024-02-06,Alışveriş,259.65,Market,Şok
+2024-02-12,Eğlence,88.49,Market,Şok
+2024-02-09,Alışveriş,321.71,Eğlence,Konser
+2024-02-26,ATM Çekimi,444.77,Restoran,Burger
+2024-02-05,Restoran,139.04,ATM,ATM Çekimi
+2024-02-23,Restoran,284.15,Sağlık,Eczane
+2024-02-17,Eğlence,390.29,Market,Metro
+2024-02-14,Sağlık,457.34,Sağlık,Doktor
+2024-02-23,Alışveriş,407.21,Market,A101
+2024-02-07,Restoran,363.58,Eğlence,Sinema
+2024-02-19,ATM Çekimi,58.6,Eğlence,Tiyatro
+2024-02-08,Alışveriş,18.12,Sağlık,Doktor
+2024-02-07,Eğlence,400.11,Restoran,Pasta
+2024-02-09,Sağlık,15.39,ATM,ATM Çekimi
+2024-02-23,Eğlence,13.98,Sağlık,Doktor
+2024-02-09,Alışveriş,216.43,Market,Metro
+2024-02-24,ATM Çekimi,400.35,Market,A101
+2024-02-25,Eğlence,130.96,Eğlence,Sinema
+2024-02-01,Eğlence,141.49,ATM,ATM Çekimi
+2024-02-18,Sağlık,400.03,ATM,ATM Çekimi
+2024-02-13,Sağlık,167.44,Eğlence,Tiyatro
+2024-02-11,Eğlence,357.44,Market,Metro
+2024-02-20,Eğlence,339.07,Eğlence,Tiyatro
+2024-02-04,Alışveriş,469.27,Sağlık,Eczane
+2024-02-26,Alışveriş,388.01,Eğlence,Tiyatro
+2024-02-10,Eğlence,202.28,Market,Şok
+2024-02-04,Sağlık,143.03,Sağlık,Eczane
+2024-02-01,Eğlence,107.93,Sağlık,Doktor
+2024-02-03,Restoran,386.48,Eğlence,Sinema
+2024-02-02,Sağlık,44.13,Eğlence,Sinema
+2024-02-02,Restoran,313.92,Restoran,Pasta
+2024-02-15,Sağlık,286.62,Market,Metro
+2024-02-21,Alışveriş,151.96,Sağlık,Eczane
+2024-02-20,ATM Çekimi,209.46,Sağlık,Doktor
+2024-02-20,Eğlence,184.77,Market,Şok
+2024-02-26,Alışveriş,323.05,Eğlence,Tiyatro
+2024-02-01,Restoran,262.78,Sağlık,Eczane
+2024-02-21,Sağlık,220.9,Sağlık,Doktor
+2024-02-04,Sağlık,345.06,Eğlence,Tiyatro
+2024-02-29,ATM Çekimi,387.85,Eğlence,Tiyatro
+2024-02-21,Alışveriş,307.59,Eğlence,Sinema
+2024-02-19,ATM Çekimi,224.23,Restoran,Pasta
+2024-02-15,Sağlık,143.88,Restoran,Burger
+2024-02-19,Sağlık,12.05,Market,A101
+2024-02-05,Restoran,222.4,Eğlence,Sinema
+2024-02-04,Alışveriş,197.5,Eğlence,Tiyatro
+2024-02-27,Eğlence,449.18,Restoran,Burger
+2024-02-02,Alışveriş,312.4,Restoran,Pasta
+2024-02-05,Sağlık,441.48,ATM,ATM Çekimi
+2024-02-20,Restoran,486.34,Market,Şok
+2024-02-08,Sağlık,197.12,Market,Metro
+2024-02-19,ATM Çekimi,175.19,Sağlık,Eczane
+2024-02-26,Alışveriş,17.66,ATM,ATM Çekimi
+2024-02-06,Alışveriş,308.81,Eğlence,Tiyatro
+2024-02-15,Restoran,22.75,Restoran,Sushi
+2024-02-06,Restoran,497.77,Eğlence,Tiyatro
+2024-02-03,Alışveriş,302.3,Market,A101
+2024-02-13,Restoran,252.33,Market,Metro
+2024-02-06,ATM Çekimi,175.89,Eğlence,Konser
+2024-02-13,Eğlence,171.97,Restoran,Burger
+2024-02-10,ATM Çekimi,96.17,Market,Şok
+2024-02-02,Eğlence,488.48,Market,Şok
+2024-02-18,Restoran,413.26,ATM,ATM Çekimi
+2024-02-25,Sağlık,235.67,Sağlık,Eczane
+2024-02-23,Eğlence,154.07,ATM,ATM Çekimi
+2024-02-19,Eğlence,225.33,Restoran,Burger
+2024-02-04,Sağlık,142.6,Sağlık,Eczane
+2024-02-08,ATM Çekimi,116.82,Eğlence,Konser
+2024-02-06,Sağlık,481.69,ATM,ATM Çekimi
+2024-02-08,Restoran,105.86,Restoran,Sushi
+2024-02-01,ATM Çekimi,480.45,Restoran,Pasta
+2024-02-17,Restoran,399.68,Market,Metro
+2024-02-23,Alışveriş,365.44,Market,Metro
+2024-02-26,Eğlence,194.16,Market,A101
+2024-02-23,Restoran,272.95,Restoran,Pasta
+2024-02-20,Sağlık,267.89,Restoran,Pasta
+2024-02-21,Alışveriş,436.14,Eğlence,Tiyatro
+2024-02-26,Alışveriş,81.15,Market,Metro
+2024-02-01,ATM Çekimi,92.73,Eğlence,Sinema
+2024-02-24,Eğlence,291.58,ATM,ATM Çekimi
+2024-02-12,Eğlence,187.64,Restoran,Burger
+2024-02-03,Alışveriş,338.29,Sağlık,Eczane
+2024-02-24,Restoran,57.3,Sağlık,Doktor
+2024-02-05,Restoran,454.2,Sağlık,Doktor
+2024-02-27,Sağlık,54.26,ATM,ATM Çekimi
+2024-02-23,Sağlık,430.21,Restoran,Pasta
+2024-02-17,Restoran,60.51,Eğlence,Konser
+2024-02-23,Sağlık,283.8,Sağlık,Doktor
+2024-02-05,Eğlence,473.26,Eğlence,Konser
+2024-02-20,ATM Çekimi,237.1,ATM,ATM Çekimi
+2024-02-21,Sağlık,472.83,Restoran,Burger
+2024-02-05,Restoran,295.39,Eğlence,Sinema
+2024-02-08,Alışveriş,478.36,Restoran,Burger
+2024-02-12,Alışveriş,110.03,Market,Şok
+2024-02-11,Eğlence,306.03,Market,Metro
+2024-02-23,ATM Çekimi,181.19,Sağlık,Eczane
+2024-02-13,Sağlık,106.86,Restoran,Sushi
+2024-02-26,ATM Çekimi,71.29,Sağlık,Doktor
+2024-02-14,ATM Çekimi,87.24,Market,A101
+2024-02-08,Eğlence,114.26,Market,Şok
+2024-02-04,Alışveriş,469.82,Market,Metro
+2024-02-25,Alışveriş,193.5,Market,A101
+2024-02-04,ATM Çekimi,453.54,ATM,ATM Çekimi
+2024-02-01,ATM Çekimi,463.32,Sağlık,Eczane
+2024-02-28,Alışveriş,328.75,ATM,ATM Çekimi
+2024-02-17,Sağlık,274.98,Market,Şok
+2024-02-16,Eğlence,263.88,Sağlık,Doktor
+2024-02-29,Alışveriş,455.33,Market,A101
+2024-02-27,Restoran,332.47,Eğlence,Konser
+2024-02-20,ATM Çekimi,206.58,Restoran,Sushi
+2024-02-21,Alışveriş,433.72,Eğlence,Konser
+2024-02-25,Eğlence,426.97,Sağlık,Eczane
+2024-02-07,Sağlık,207.28,Restoran,Burger
+2024-02-15,Sağlık,257.47,Restoran,Pasta
+2024-02-23,Sağlık,186.86,ATM,ATM Çekimi
+2024-02-29,Eğlence,445.82,Sağlık,Doktor
+2024-03-17,Alışveriş,126.61,ATM,ATM Çekimi
+2024-03-14,Fatura Ödemesi,389.78,Giyim,H&M
+2024-03-24,ATM Çekimi,140.91,Fatura Ödemesi,Su
+2024-03-19,Kafe,391.45,Kafe,Starbucks
+2024-03-13,Kafe,408.41,Fatura Ödemesi,Su
+2024-03-09,ATM Çekimi,315.77,Fatura Ödemesi,Elektrik
+2024-03-12,Fatura Ödemesi,307.04,Kafe,Kahve Dünyası
+2024-03-12,Alışveriş,242.76,Seyahat,Uçak
+2024-03-22,ATM Çekimi,434.52,Seyahat,Otobüs
+2024-03-22,Kafe,401.93,Fatura Ödemesi,Su
+2024-03-08,ATM Çekimi,180.49,Seyahat,Uçak
+2024-03-03,Fatura Ödemesi,465.19,Seyahat,Tren
+2024-03-04,Seyahat,102.59,ATM,ATM Çekimi
+2024-03-13,Kafe,42.48,Giyim,LC Waikiki
+2024-03-18,Alışveriş,82.09,ATM,ATM Çekimi
+2024-03-21,ATM Çekimi,108.05,Seyahat,Otobüs
+2024-03-06,ATM Çekimi,139.77,Giyim,H&M
+2024-03-05,Alışveriş,423.89,Fatura Ödemesi,Doğalgaz
+2024-03-10,Kafe,190.63,ATM,ATM Çekimi
+2024-03-18,ATM Çekimi,422.04,Kafe,Gloria Jeans
+2024-03-01,ATM Çekimi,60.55,ATM,ATM Çekimi
+2024-03-22,Fatura Ödemesi,376.39,Fatura Ödemesi,Elektrik
+2024-03-15,Kafe,112.17,Seyahat,Otobüs
+2024-03-28,Fatura Ödemesi,232.97,Seyahat,Tren
+2024-03-16,Kafe,296.7,Seyahat,Uçak
+2024-03-11,ATM Çekimi,195.56,Giyim,Zara
+2024-03-06,Fatura Ödemesi,445.98,ATM,ATM Çekimi
+2024-03-31,ATM Çekimi,371.22,ATM,ATM Çekimi
+2024-03-01,Fatura Ödemesi,215.83,Giyim,LC Waikiki
+2024-03-24,Seyahat,414.25,Kafe,Gloria Jeans
+2024-03-07,Alışveriş,73.42,Giyim,H&M
+2024-03-06,Seyahat,445.82,Seyahat,Otobüs
+2024-03-19,ATM Çekimi,174.98,Seyahat,Uçak
+2024-03-18,ATM Çekimi,101.83,ATM,ATM Çekimi
+2024-03-18,Alışveriş,210.35,Giyim,LC Waikiki
+2024-03-04,Fatura Ödemesi,343.49,ATM,ATM Çekimi
+2024-03-27,Kafe,358.05,Seyahat,Tren
+2024-03-31,Fatura Ödemesi,181.79,Seyahat,Uçak
+2024-03-12,Alışveriş,318.03,ATM,ATM Çekimi
+2024-03-06,Alışveriş,260.52,Giyim,H&M
+2024-03-24,ATM Çekimi,121.59,Giyim,Zara
+2024-03-01,Fatura Ödemesi,89.28,Giyim,H&M
+2024-03-28,Fatura Ödemesi,327.79,ATM,ATM Çekimi
+2024-03-26,ATM Çekimi,134.72,Kafe,Starbucks
+2024-03-18,ATM Çekimi,149.02,Seyahat,Uçak
+2024-03-25,ATM Çekimi,158.58,Seyahat,Otobüs
+2024-03-13,Seyahat,423.17,ATM,ATM Çekimi
+2024-03-15,Fatura Ödemesi,160.17,Giyim,LC Waikiki
+2024-03-19,Fatura Ödemesi,203.89,ATM,ATM Çekimi
+2024-03-25,ATM Çekimi,276.37,Kafe,Gloria Jeans
+2024-03-13,Fatura Ödemesi,259.63,Kafe,Kahve Dünyası
+2024-03-31,Alışveriş,64.02,Fatura Ödemesi,Elektrik
+2024-03-13,ATM Çekimi,120.42,Giyim,LC Waikiki
+2024-03-31,Alışveriş,313.73,Kafe,Starbucks
+2024-03-14,Kafe,60.72,Giyim,H&M
+2024-03-31,Fatura Ödemesi,363.12,Giyim,LC Waikiki
+2024-03-17,ATM Çekimi,149.44,Fatura Ödemesi,Su
+2024-03-29,Alışveriş,223.39,Seyahat,Uçak
+2024-03-01,Seyahat,409.53,Fatura Ödemesi,Su
+2024-03-11,Kafe,124.88,Fatura Ödemesi,Doğalgaz
+2024-03-27,Alışveriş,206.51,Giyim,H&M
+2024-03-15,Alışveriş,280.4,Kafe,Gloria Jeans
+2024-03-08,Fatura Ödemesi,13.04,Seyahat,Otobüs
+2024-03-08,Seyahat,438.9,Giyim,H&M
+2024-03-17,ATM Çekimi,485.48,ATM,ATM Çekimi
+2024-03-10,Alışveriş,240.65,Seyahat,Tren
+2024-03-11,Alışveriş,411.92,ATM,ATM Çekimi
+2024-03-15,ATM Çekimi,401.72,Kafe,Kahve Dünyası
+2024-03-15,ATM Çekimi,363.41,Giyim,LC Waikiki
+2024-03-07,ATM Çekimi,274.71,ATM,ATM Çekimi
+2024-03-18,Seyahat,472.13,Fatura Ödemesi,Doğalgaz
+2024-03-10,Kafe,88.05,Seyahat,Otobüs
+2024-03-15,ATM Çekimi,232.94,Fatura Ödemesi,Doğalgaz
+2024-03-06,Seyahat,282.29,Seyahat,Uçak
+2024-03-07,Kafe,62.85,Giyim,LC Waikiki
+2024-03-12,Seyahat,22.34,ATM,ATM Çekimi
+2024-03-24,Fatura Ödemesi,203.67,Seyahat,Otobüs
+2024-03-14,Kafe,183.33,Fatura Ödemesi,Elektrik
+2024-03-04,Seyahat,381.94,Fatura Ödemesi,Su
+2024-03-18,Seyahat,44.83,Kafe,Kahve Dünyası
+2024-03-25,Kafe,295.05,Kafe,Kahve Dünyası
+2024-03-05,Kafe,71.05,Seyahat,Otobüs
+2024-03-12,ATM Çekimi,146.65,Kafe,Starbucks
+2024-03-13,Fatura Ödemesi,134.63,Giyim,Zara
+2024-03-12,Kafe,310.22,Seyahat,Tren
+2024-03-08,Fatura Ödemesi,343.02,Fatura Ödemesi,Elektrik
+2024-03-31,Kafe,284.72,ATM,ATM Çekimi
+2024-03-28,ATM Çekimi,41.88,ATM,ATM Çekimi
+2024-03-04,Seyahat,92.57,Seyahat,Uçak
+2024-03-16,Alışveriş,490.81,Fatura Ödemesi,Elektrik
+2024-03-22,Fatura Ödemesi,149.51,Fatura Ödemesi,Doğalgaz
+2024-03-01,ATM Çekimi,294.83,ATM,ATM Çekimi
+2024-03-05,ATM Çekimi,73.46,ATM,ATM Çekimi
+2024-03-08,Alışveriş,198.84,Giyim,Zara
+2024-03-30,Fatura Ödemesi,122.74,Fatura Ödemesi,Su
+2024-03-13,Seyahat,305.43,Kafe,Gloria Jeans
+2024-03-04,Alışveriş,48.7,Seyahat,Tren
+2024-03-27,Alışveriş,179.23,Kafe,Starbucks
+2024-03-16,ATM Çekimi,193.06,ATM,ATM Çekimi
+2024-03-08,Alışveriş,135.14,Kafe,Kahve Dünyası
+2024-03-30,Alışveriş,23.98,Fatura Ödemesi,Doğalgaz
+2024-03-05,Kafe,316.37,Kafe,Gloria Jeans
+2024-03-07,Kafe,326.08,ATM,ATM Çekimi
+2024-03-11,Kafe,237.18,Seyahat,Otobüs
+2024-03-26,Seyahat,439.56,Kafe,Starbucks
+2024-03-23,Seyahat,291.96,Kafe,Starbucks
+2024-03-08,Fatura Ödemesi,340.39,Seyahat,Uçak
+2024-03-14,ATM Çekimi,445.11,ATM,ATM Çekimi
+2024-03-09,Kafe,157.56,Kafe,Starbucks
+2024-03-02,Alışveriş,84.68,Giyim,LC Waikiki
+2024-03-30,Seyahat,374.97,ATM,ATM Çekimi
+2024-03-18,Seyahat,354.51,Giyim,LC Waikiki
+2024-03-20,ATM Çekimi,153.46,Kafe,Kahve Dünyası
+2024-03-24,Seyahat,91.61,Kafe,Gloria Jeans
+2024-03-22,ATM Çekimi,486.96,Seyahat,Otobüs
+2024-03-05,Seyahat,144.6,ATM,ATM Çekimi
+2024-03-29,Alışveriş,328.16,Giyim,Zara
+2024-03-12,ATM Çekimi,454.19,ATM,ATM Çekimi
+2024-03-14,ATM Çekimi,246.89,Kafe,Kahve Dünyası
+2024-03-07,Alışveriş,430.92,Kafe,Starbucks
+2024-03-06,Kafe,138.02,Kafe,Kahve Dünyası
+2024-03-21,Alışveriş,198.29,ATM,ATM Çekimi
+2024-03-24,Fatura Ödemesi,390.4,Seyahat,Otobüs
+2024-03-21,Seyahat,175.29,Seyahat,Uçak
+2024-03-18,ATM Çekimi,312.31,Fatura Ödemesi,Elektrik
+2024-03-29,Seyahat,279.46,Kafe,Gloria Jeans
+2024-03-19,Seyahat,83.49,Giyim,H&M
+2024-03-11,Kafe,33.32,Kafe,Gloria Jeans
+2024-03-26,ATM Çekimi,230.82,Fatura Ödemesi,Su
+2024-03-07,Kafe,415.15,ATM,ATM Çekimi
+2024-03-17,Alışveriş,259.69,Seyahat,Uçak
+2024-03-22,Fatura Ödemesi,379.81,Giyim,Zara
+2024-03-06,Seyahat,274.07,ATM,ATM Çekimi
+2024-03-05,Alışveriş,341.47,Seyahat,Otobüs
+2024-03-08,ATM Çekimi,300.34,Kafe,Gloria Jeans
+2024-03-30,Seyahat,29.28,Giyim,LC Waikiki
+2024-03-17,Alışveriş,492.64,Seyahat,Otobüs
+2024-03-30,ATM Çekimi,348.63,Kafe,Kahve Dünyası
+2024-03-27,ATM Çekimi,296.82,Seyahat,Otobüs
+2024-03-02,ATM Çekimi,96.78,Kafe,Kahve Dünyası
+2024-03-28,Seyahat,183.01,Kafe,Starbucks
+2024-03-06,Fatura Ödemesi,304.59,Seyahat,Otobüs
+2024-03-03,Seyahat,26.33,ATM,ATM Çekimi
+2024-03-29,ATM Çekimi,457.53,Kafe,Kahve Dünyası
+2024-03-09,Kafe,178.46,Giyim,Zara
+2024-03-30,ATM Çekimi,473.9,Kafe,Starbucks
+2024-03-05,Alışveriş,359.64,Giyim,H&M
+2024-03-01,Alışveriş,361.86,Fatura Ödemesi,Doğalgaz
+2024-03-19,Alışveriş,417.11,ATM,ATM Çekimi
+2024-03-21,Kafe,80.04,Seyahat,Otobüs
+2024-03-25,ATM Çekimi,426.06,Fatura Ödemesi,Doğalgaz
+2024-03-02,Seyahat,177.23,Kafe,Gloria Jeans
+2024-03-14,ATM Çekimi,137.23,ATM,ATM Çekimi
+2024-03-03,ATM Çekimi,125.25,Fatura Ödemesi,Doğalgaz
+2024-03-27,Alışveriş,107.6,Kafe,Starbucks
+2024-03-03,Alışveriş,213.4,Fatura Ödemesi,Elektrik
+2024-03-04,Kafe,394.45,Fatura Ödemesi,Elektrik
+2024-03-08,Kafe,489.71,Kafe,Gloria Jeans
+2024-03-17,Seyahat,115.54,ATM,ATM Çekimi
+2024-03-22,Seyahat,302.77,Giyim,H&M
+2024-03-12,Alışveriş,214.17,Kafe,Starbucks
+2024-03-06,Fatura Ödemesi,121.74,ATM,ATM Çekimi
+2024-03-18,Seyahat,365.56,Kafe,Starbucks
+2024-03-08,Kafe,169.36,Seyahat,Otobüs
+2024-03-08,Kafe,77.1,ATM,ATM Çekimi
+2024-03-11,Alışveriş,167.27,Seyahat,Tren
+2024-03-23,Alışveriş,130.0,Kafe,Starbucks
+2024-03-17,Fatura Ödemesi,231.96,Seyahat,Uçak
+2024-03-16,ATM Çekimi,116.65,Giyim,LC Waikiki
+2024-03-16,Fatura Ödemesi,170.71,Kafe,Kahve Dünyası
+2024-03-24,Fatura Ödemesi,388.49,Seyahat,Uçak
+2024-03-17,Seyahat,477.36,Giyim,H&M
+2024-03-31,Fatura Ödemesi,213.93,Giyim,LC Waikiki
+2024-03-01,Seyahat,431.36,Giyim,H&M
+2024-03-30,Seyahat,316.71,ATM,ATM Çekimi
+2024-03-12,Alışveriş,468.3,ATM,ATM Çekimi
+2024-03-18,Seyahat,257.22,Kafe,Gloria Jeans
+2024-03-18,Seyahat,379.18,Seyahat,Tren
+2024-03-20,Fatura Ödemesi,480.75,Giyim,H&M
+2024-03-30,Fatura Ödemesi,468.76,Giyim,H&M
+2024-03-23,Fatura Ödemesi,53.0,Fatura Ödemesi,Elektrik
+2024-03-29,Alışveriş,401.21,Fatura Ödemesi,Su
+2024-03-02,ATM Çekimi,436.53,Kafe,Gloria Jeans
+2024-03-25,Alışveriş,431.84,ATM,ATM Çekimi
+2024-03-18,Fatura Ödemesi,59.1,Kafe,Kahve Dünyası
+2024-03-08,Alışveriş,92.77,Fatura Ödemesi,Elektrik
+2024-03-19,ATM Çekimi,469.99,Fatura Ödemesi,Su
+2024-03-31,ATM Çekimi,460.44,Fatura Ödemesi,Elektrik
+2024-03-13,Kafe,279.2,Seyahat,Uçak
+2024-03-12,Fatura Ödemesi,43.76,Giyim,LC Waikiki
+2024-03-10,Kafe,192.3,Seyahat,Otobüs
+2024-03-27,Alışveriş,119.17,Fatura Ödemesi,Su
+2024-03-15,Fatura Ödemesi,394.39,Fatura Ödemesi,Su
+2024-03-25,Alışveriş,338.46,ATM,ATM Çekimi
+2024-03-23,ATM Çekimi,35.71,Kafe,Starbucks
+2024-03-17,Kafe,217.1,Seyahat,Tren
+2024-03-13,Alışveriş,12.23,Kafe,Kahve Dünyası
+2024-03-26,Seyahat,214.74,Fatura Ödemesi,Doğalgaz
+2024-03-16,Fatura Ödemesi,64.11,Giyim,LC Waikiki
+2024-03-31,ATM Çekimi,316.96,ATM,ATM Çekimi
+2024-03-14,Seyahat,373.82,Fatura Ödemesi,Elektrik
+2024-03-29,Fatura Ödemesi,40.48,Fatura Ödemesi,Elektrik
+2024-03-24,Kafe,183.96,ATM,ATM Çekimi
+2024-03-26,Alışveriş,481.06,Fatura Ödemesi,Su
+2024-03-21,Seyahat,470.41,ATM,ATM Çekimi
+2024-03-05,ATM Çekimi,202.45,Fatura Ödemesi,Doğalgaz
+2024-03-20,Kafe,178.0,Giyim,H&M
+2024-03-08,Alışveriş,158.42,ATM,ATM Çekimi
+2024-03-06,Fatura Ödemesi,324.81,Kafe,Kahve Dünyası
+2024-03-31,Kafe,271.48,ATM,ATM Çekimi
+2024-03-15,Seyahat,461.66,ATM,ATM Çekimi
+2024-03-04,ATM Çekimi,17.82,Kafe,Gloria Jeans
+2024-03-29,Kafe,388.84,Kafe,Gloria Jeans
+2024-03-23,Kafe,135.37,Giyim,Zara
+2024-03-18,Kafe,466.46,Seyahat,Otobüs
+2024-03-08,Fatura Ödemesi,423.71,Kafe,Gloria Jeans
+2024-03-24,Fatura Ödemesi,266.84,Seyahat,Otobüs
+2024-03-09,Seyahat,299.2,Giyim,LC Waikiki
+2024-03-16,Seyahat,307.9,Fatura Ödemesi,Elektrik
+2024-03-03,Fatura Ödemesi,91.11,Seyahat,Tren
+2024-03-08,Seyahat,31.29,Seyahat,Otobüs
+2024-03-06,ATM Çekimi,303.63,Kafe,Kahve Dünyası
+2024-03-22,Alışveriş,333.48,Kafe,Kahve Dünyası
+2024-03-15,ATM Çekimi,423.41,ATM,ATM Çekimi
+2024-03-14,Fatura Ödemesi,267.58,ATM,ATM Çekimi
+2024-03-14,Seyahat,160.63,Fatura Ödemesi,Elektrik
+2024-03-20,ATM Çekimi,130.17,Kafe,Starbucks
+2024-03-08,Alışveriş,148.29,Giyim,H&M
+2024-03-30,Fatura Ödemesi,485.61,ATM,ATM Çekimi
+2024-03-03,Alışveriş,265.05,Giyim,LC Waikiki
+2024-03-31,Fatura Ödemesi,60.05,Kafe,Starbucks
+2024-03-02,Kafe,127.59,Kafe,Gloria Jeans
+2024-03-20,Kafe,288.47,Seyahat,Tren
+2024-03-21,Seyahat,195.45,Seyahat,Otobüs
+2024-03-02,Fatura Ödemesi,474.2,Kafe,Starbucks
+2024-03-18,Kafe,117.87,Kafe,Starbucks
+2024-03-15,Fatura Ödemesi,318.26,ATM,ATM Çekimi
+2024-03-04,ATM Çekimi,308.97,Giyim,LC Waikiki
+2024-03-16,Alışveriş,138.81,Kafe,Starbucks
+2024-03-14,Alışveriş,82.81,Seyahat,Otobüs
+2024-03-16,Seyahat,189.57,ATM,ATM Çekimi
+2024-03-10,Alışveriş,234.41,Seyahat,Uçak
+2024-03-16,Alışveriş,89.14,ATM,ATM Çekimi
+2024-03-05,Alışveriş,225.91,Kafe,Starbucks
+2024-03-22,Alışveriş,492.82,Seyahat,Otobüs
+2024-03-26,Fatura Ödemesi,80.0,Fatura Ödemesi,Su
+2024-03-22,Kafe,51.82,ATM,ATM Çekimi
+2024-03-22,Seyahat,320.89,Fatura Ödemesi,Elektrik
+2024-03-09,Fatura Ödemesi,171.16,Giyim,H&M
+2024-03-19,Seyahat,83.0,ATM,ATM Çekimi
+2024-03-12,Alışveriş,370.78,Seyahat,Tren
+2024-03-02,ATM Çekimi,167.93,ATM,ATM Çekimi
+2024-03-14,Kafe,310.03,Seyahat,Otobüs
+2024-03-18,Fatura Ödemesi,400.41,Giyim,Zara
+2024-03-07,Kafe,49.77,Fatura Ödemesi,Su
+2024-03-01,Alışveriş,434.9,Kafe,Starbucks
+2024-03-04,Alışveriş,101.6,Giyim,LC Waikiki
+2024-03-11,ATM Çekimi,488.71,ATM,ATM Çekimi
+2024-03-11,Seyahat,34.07,ATM,ATM Çekimi
+2024-03-04,ATM Çekimi,455.94,ATM,ATM Çekimi
+2024-03-24,Seyahat,420.47,Fatura Ödemesi,Doğalgaz
+2024-03-07,ATM Çekimi,460.37,Kafe,Kahve Dünyası
+2024-03-02,Kafe,434.32,ATM,ATM Çekimi
+2024-03-08,Kafe,281.27,Fatura Ödemesi,Doğalgaz
+2024-03-23,Fatura Ödemesi,307.36,Kafe,Gloria Jeans
+2024-03-28,Alışveriş,477.43,Seyahat,Tren
+2024-03-15,ATM Çekimi,311.56,Giyim,H&M
+2024-03-11,Seyahat,263.69,Fatura Ödemesi,Doğalgaz
+2024-03-09,ATM Çekimi,218.34,Kafe,Starbucks
+2024-03-31,Fatura Ödemesi,346.29,Seyahat,Uçak
+2024-03-05,Seyahat,337.36,Fatura Ödemesi,Su
+2024-03-26,ATM Çekimi,285.91,ATM,ATM Çekimi
+2024-03-25,ATM Çekimi,120.51,Seyahat,Uçak
+2024-03-11,Seyahat,251.69,Kafe,Starbucks
+2024-03-25,Kafe,390.92,ATM,ATM Çekimi
+2024-03-10,Fatura Ödemesi,328.12,Seyahat,Uçak
+2024-03-06,Fatura Ödemesi,129.19,ATM,ATM Çekimi
+2024-03-03,Seyahat,76.51,ATM,ATM Çekimi
+2024-03-29,Seyahat,87.01,Fatura Ödemesi,Su
+2024-03-12,ATM Çekimi,410.51,Seyahat,Tren
+2024-03-09,Kafe,493.31,Seyahat,Tren
+2024-03-04,Alışveriş,30.17,Giyim,Zara
+2024-03-17,ATM Çekimi,278.74,Giyim,H&M
+2024-03-18,Fatura Ödemesi,70.58,Seyahat,Uçak
+2024-03-17,Alışveriş,369.04,Kafe,Starbucks
+2024-03-18,Kafe,479.57,Kafe,Kahve Dünyası
+2024-03-28,ATM Çekimi,62.62,Fatura Ödemesi,Elektrik
+2024-03-09,Alışveriş,498.27,Seyahat,Tren
+2024-03-15,Seyahat,318.81,Fatura Ödemesi,Elektrik
+2024-03-18,Fatura Ödemesi,50.26,Giyim,Zara
+2024-03-20,Kafe,115.25,Seyahat,Uçak
+2024-03-03,Alışveriş,216.68,ATM,ATM Çekimi
+2024-03-17,Alışveriş,447.28,Seyahat,Tren
+2024-03-11,Kafe,61.4,Seyahat,Uçak
+2024-03-08,Seyahat,273.08,Giyim,LC Waikiki
+2024-03-27,Fatura Ödemesi,383.49,ATM,ATM Çekimi
+2024-03-31,ATM Çekimi,295.58,Fatura Ödemesi,Su
+2024-03-13,Fatura Ödemesi,92.8,Giyim,LC Waikiki
+2024-03-22,Alışveriş,205.15,Giyim,LC Waikiki
+2024-03-21,Alışveriş,139.0,Giyim,H&M
+2024-03-16,Kafe,219.24,ATM,ATM Çekimi
+2024-03-13,Seyahat,391.3,Kafe,Kahve Dünyası
+2024-03-07,Fatura Ödemesi,435.98,Seyahat,Otobüs
+2024-03-09,ATM Çekimi,214.25,Kafe,Gloria Jeans
+2024-03-19,Fatura Ödemesi,104.79,Kafe,Starbucks
+2024-03-07,Seyahat,316.93,Kafe,Kahve Dünyası
+2024-03-26,Seyahat,102.07,Giyim,LC Waikiki
+2024-03-17,Fatura Ödemesi,257.97,Fatura Ödemesi,Su
+2024-03-10,Alışveriş,195.71,Fatura Ödemesi,Doğalgaz
+2024-03-12,ATM Çekimi,270.82,Kafe,Kahve Dünyası
+2024-03-28,ATM Çekimi,342.23,Giyim,H&M
+2024-03-28,Fatura Ödemesi,414.38,Seyahat,Tren
+2024-03-04,Fatura Ödemesi,190.97,Kafe,Kahve Dünyası
+2024-03-30,Alışveriş,313.84,Fatura Ödemesi,Su
+2024-03-20,Seyahat,93.1,Kafe,Starbucks
+2024-03-26,Seyahat,438.54,Seyahat,Tren
+2024-03-24,Alışveriş,418.2,Fatura Ödemesi,Elektrik
+2024-03-14,Alışveriş,279.32,Fatura Ödemesi,Su
+2024-03-14,Kafe,427.96,Kafe,Kahve Dünyası
+2024-03-20,Kafe,112.86,Kafe,Gloria Jeans
+2024-03-17,Seyahat,377.06,ATM,ATM Çekimi
+2024-03-17,Seyahat,95.5,Seyahat,Tren
+2024-03-18,Alışveriş,287.98,ATM,ATM Çekimi
+2024-03-24,Fatura Ödemesi,459.8,Kafe,Starbucks
+2024-03-15,ATM Çekimi,35.3,Giyim,Zara
+2024-03-20,Alışveriş,67.16,Kafe,Gloria Jeans
+2024-03-27,Seyahat,374.79,Kafe,Starbucks
+2024-03-03,Fatura Ödemesi,91.66,Seyahat,Tren
+2024-03-28,ATM Çekimi,160.02,Kafe,Starbucks
+2024-03-15,Seyahat,316.8,ATM,ATM Çekimi
+2024-03-03,Alışveriş,403.23,Fatura Ödemesi,Elektrik
+2024-03-15,Seyahat,13.7,ATM,ATM Çekimi
+2024-03-27,Fatura Ödemesi,235.34,Seyahat,Uçak
+2024-03-15,Kafe,469.43,Fatura Ödemesi,Doğalgaz
+2024-03-11,Kafe,381.82,Seyahat,Otobüs
+2024-03-23,Seyahat,284.97,ATM,ATM Çekimi
+2024-03-21,Fatura Ödemesi,269.71,ATM,ATM Çekimi
+2024-03-31,Kafe,53.06,Giyim,Zara
+2024-03-08,Seyahat,23.14,Fatura Ödemesi,Doğalgaz
+2024-03-11,Kafe,131.37,Kafe,Kahve Dünyası
+2024-03-01,Seyahat,215.78,Fatura Ödemesi,Su
+2024-03-22,Kafe,277.73,Fatura Ödemesi,Elektrik
+2024-03-09,Fatura Ödemesi,358.73,Giyim,Zara
+2024-03-20,Kafe,140.19,Kafe,Gloria Jeans
+2024-03-12,Seyahat,258.74,Giyim,H&M
+2024-03-17,Alışveriş,366.05,Giyim,Zara
+2024-03-10,Fatura Ödemesi,61.24,Seyahat,Uçak
+2024-03-05,ATM Çekimi,82.99,Giyim,LC Waikiki
+2024-03-15,Kafe,197.08,ATM,ATM Çekimi
+2024-03-04,Alışveriş,35.63,Giyim,H&M
+2024-03-30,ATM Çekimi,142.66,Seyahat,Otobüs
+2024-03-31,Seyahat,454.87,Fatura Ödemesi,Su
+2024-03-06,Fatura Ödemesi,271.47,ATM,ATM Çekimi
+2024-03-30,Fatura Ödemesi,228.87,Giyim,H&M
+2024-03-16,ATM Çekimi,72.13,ATM,ATM Çekimi
+2024-03-29,ATM Çekimi,128.68,Seyahat,Uçak
+2024-03-20,Alışveriş,215.97,ATM,ATM Çekimi
+2024-03-08,ATM Çekimi,341.94,Seyahat,Uçak
+2024-03-29,Kafe,88.66,ATM,ATM Çekimi
+2024-03-26,Fatura Ödemesi,360.15,Giyim,Zara
+2024-03-18,ATM Çekimi,144.27,Seyahat,Uçak
+2024-03-12,Fatura Ödemesi,365.7,Kafe,Starbucks
+2024-03-16,Alışveriş,390.42,Fatura Ödemesi,Elektrik
+2024-03-29,Kafe,150.69,ATM,ATM Çekimi
+2024-03-02,Alışveriş,421.34,Giyim,LC Waikiki
+2024-03-19,Fatura Ödemesi,24.09,Kafe,Starbucks
+2024-03-29,Fatura Ödemesi,469.15,Seyahat,Uçak
+2024-03-05,Kafe,431.63,Fatura Ödemesi,Doğalgaz
+2024-03-27,Seyahat,320.13,Seyahat,Uçak
+2024-03-15,ATM Çekimi,165.68,ATM,ATM Çekimi
+2024-03-15,Alışveriş,68.56,Seyahat,Uçak
+2024-03-19,ATM Çekimi,346.72,ATM,ATM Çekimi
+2024-03-07,Alışveriş,117.84,ATM,ATM Çekimi
+2024-03-18,ATM Çekimi,213.4,Fatura Ödemesi,Elektrik
+2024-03-18,Fatura Ödemesi,20.99,ATM,ATM Çekimi
+2024-03-02,Seyahat,287.51,Kafe,Starbucks
+2024-03-23,Kafe,298.66,Giyim,Zara
+2024-03-10,ATM Çekimi,439.67,ATM,ATM Çekimi
+2024-03-12,Alışveriş,44.68,Giyim,Zara
+2024-03-27,Kafe,358.33,ATM,ATM Çekimi
+2024-03-25,ATM Çekimi,110.0,Fatura Ödemesi,Su
+2024-03-02,Kafe,402.91,Kafe,Gloria Jeans
+2024-03-18,ATM Çekimi,87.23,Giyim,LC Waikiki
+2024-03-24,Seyahat,409.15,Seyahat,Uçak
+2024-03-22,Alışveriş,412.03,ATM,ATM Çekimi
+2024-03-27,Alışveriş,242.89,Seyahat,Tren
+2024-03-30,Alışveriş,356.54,ATM,ATM Çekimi
+2024-03-25,Seyahat,149.26,Fatura Ödemesi,Elektrik
+2024-03-01,Alışveriş,211.69,ATM,ATM Çekimi
+2024-03-19,Seyahat,237.06,Kafe,Gloria Jeans
+2024-03-07,Fatura Ödemesi,115.33,Seyahat,Uçak
+2024-03-26,Fatura Ödemesi,59.24,ATM,ATM Çekimi
+2024-03-25,Seyahat,305.84,ATM,ATM Çekimi
+2024-03-23,Kafe,277.67,Fatura Ödemesi,Su
+2024-03-31,Alışveriş,79.71,Seyahat,Tren
+2024-03-12,Fatura Ödemesi,306.9,Seyahat,Otobüs
+2024-03-15,ATM Çekimi,151.23,Seyahat,Uçak
+2024-03-23,Kafe,141.96,Seyahat,Tren
+2024-03-25,Alışveriş,134.75,Kafe,Starbucks
+2024-03-09,Seyahat,143.18,Fatura Ödemesi,Elektrik
+2024-03-21,ATM Çekimi,338.4,ATM,ATM Çekimi
+2024-03-26,Fatura Ödemesi,371.05,Kafe,Kahve Dünyası
+2024-03-03,Seyahat,451.74,Fatura Ödemesi,Elektrik
+2024-03-30,Fatura Ödemesi,183.62,Kafe,Kahve Dünyası
+2024-03-04,ATM Çekimi,69.83,Seyahat,Otobüs
+2024-03-06,Fatura Ödemesi,413.73,Kafe,Gloria Jeans
+2024-03-31,Seyahat,93.89,Seyahat,Tren
+2024-03-08,Seyahat,330.12,Fatura Ödemesi,Elektrik
+2024-03-16,Kafe,76.45,Giyim,Zara
+2024-03-12,ATM Çekimi,440.32,Giyim,LC Waikiki
+2024-03-28,Seyahat,482.24,Giyim,Zara
+2024-03-03,Seyahat,180.7,Giyim,H&M
+2024-03-15,Seyahat,235.0,Seyahat,Uçak
+2024-03-22,Alışveriş,289.06,Giyim,H&M
+2024-03-27,ATM Çekimi,193.93,ATM,ATM Çekimi
+2024-03-27,Kafe,341.03,Seyahat,Uçak
+2024-03-23,Fatura Ödemesi,267.31,Kafe,Starbucks
+2024-03-23,Seyahat,210.99,Giyim,LC Waikiki
+2024-03-26,Kafe,233.94,Kafe,Gloria Jeans
+2024-03-18,Seyahat,267.38,Fatura Ödemesi,Doğalgaz
+2024-03-17,Kafe,45.93,Seyahat,Uçak
+2024-03-08,Seyahat,392.82,Giyim,LC Waikiki
+2024-03-09,Alışveriş,70.16,Giyim,LC Waikiki
+2024-03-28,Alışveriş,478.36,Kafe,Gloria Jeans
+2024-03-16,ATM Çekimi,497.33,ATM,ATM Çekimi
+2024-03-31,Fatura Ödemesi,230.32,Seyahat,Tren
+2024-03-07,ATM Çekimi,343.71,ATM,ATM Çekimi
+2024-03-02,Kafe,396.44,Fatura Ödemesi,Doğalgaz
+2024-03-04,Fatura Ödemesi,488.93,Seyahat,Tren
+2024-03-18,ATM Çekimi,41.39,Kafe,Starbucks
+2024-03-05,ATM Çekimi,104.58,Fatura Ödemesi,Su
+2024-03-08,Alışveriş,243.09,Seyahat,Tren
+2024-03-22,Alışveriş,38.7,Seyahat,Tren
+2024-03-10,Kafe,210.28,ATM,ATM Çekimi
+2024-03-19,Fatura Ödemesi,64.56,Fatura Ödemesi,Su
+2024-03-20,ATM Çekimi,429.18,Fatura Ödemesi,Doğalgaz
+2024-03-04,Kafe,329.23,Seyahat,Uçak
+2024-03-29,Alışveriş,272.0,Fatura Ödemesi,Su
+2024-03-26,Seyahat,331.13,ATM,ATM Çekimi
+2024-03-21,Kafe,442.37,Giyim,H&M
+2024-03-14,ATM Çekimi,471.21,ATM,ATM Çekimi
+2024-03-10,Alışveriş,48.23,Seyahat,Otobüs
+2024-03-20,Fatura Ödemesi,223.09,Fatura Ödemesi,Doğalgaz
+2024-03-20,Seyahat,93.32,Fatura Ödemesi,Elektrik
+2024-03-09,Kafe,73.75,ATM,ATM Çekimi
+2024-03-29,Kafe,131.86,Kafe,Gloria Jeans
+2024-03-07,ATM Çekimi,417.99,Giyim,H&M
+2024-03-29,Seyahat,377.56,Seyahat,Otobüs
+2024-03-10,ATM Çekimi,93.89,Seyahat,Otobüs
+2024-03-08,Seyahat,122.37,Seyahat,Otobüs
+2024-03-07,Alışveriş,371.71,Giyim,Zara
+2024-03-03,Kafe,159.99,Giyim,H&M
+2024-03-14,Alışveriş,353.78,Giyim,H&M
+2024-03-01,Alışveriş,257.42,Fatura Ödemesi,Elektrik
+2024-03-27,Alışveriş,157.09,Giyim,LC Waikiki
+2024-03-03,Kafe,427.98,Kafe,Kahve Dünyası
+2024-03-14,Kafe,221.03,Kafe,Starbucks
+2024-03-08,ATM Çekimi,378.3,Fatura Ödemesi,Doğalgaz
+2024-03-30,ATM Çekimi,467.15,ATM,ATM Çekimi
+2024-03-03,Kafe,162.3,Seyahat,Uçak
+2024-03-05,Fatura Ödemesi,171.26,Kafe,Kahve Dünyası
+2024-03-27,Kafe,132.1,Kafe,Kahve Dünyası
+2024-03-27,Alışveriş,200.68,Kafe,Starbucks
+2024-03-09,Seyahat,60.06,Fatura Ödemesi,Doğalgaz
+2024-03-23,Kafe,434.57,ATM,ATM Çekimi
+2024-03-15,ATM Çekimi,415.09,Giyim,LC Waikiki
+2024-03-10,Alışveriş,192.37,Kafe,Gloria Jeans
+2024-03-20,Alışveriş,417.3,Giyim,Zara
+2024-03-16,Seyahat,425.16,Seyahat,Tren
+2024-03-08,ATM Çekimi,459.45,Fatura Ödemesi,Doğalgaz
+2024-03-11,Fatura Ödemesi,413.58,Fatura Ödemesi,Elektrik
+2024-03-18,Fatura Ödemesi,460.02,ATM,ATM Çekimi
+2024-03-27,Kafe,318.83,Seyahat,Uçak
+2024-03-03,Alışveriş,326.11,Kafe,Kahve Dünyası
+2024-03-11,Seyahat,101.06,Fatura Ödemesi,Elektrik
+2024-03-08,Alışveriş,189.31,Fatura Ödemesi,Doğalgaz
+2024-03-27,Alışveriş,169.94,Kafe,Starbucks
+2024-03-26,Kafe,465.72,Giyim,LC Waikiki
+2024-03-19,Alışveriş,441.98,Fatura Ödemesi,Elektrik
+2024-03-29,Alışveriş,174.26,ATM,ATM Çekimi
+2024-03-15,Kafe,111.44,ATM,ATM Çekimi
+2024-03-29,Alışveriş,287.57,Giyim,H&M
+2024-03-30,Kafe,265.88,Kafe,Starbucks
+2024-03-09,Seyahat,268.66,Kafe,Kahve Dünyası
+2024-03-26,Fatura Ödemesi,224.49,Seyahat,Uçak
+2024-03-27,ATM Çekimi,334.57,Fatura Ödemesi,Su
+2024-03-30,Fatura Ödemesi,104.53,Giyim,H&M
+2024-03-11,Seyahat,173.7,Kafe,Gloria Jeans
+2024-03-11,ATM Çekimi,429.48,Seyahat,Tren
+2024-03-17,Fatura Ödemesi,443.61,ATM,ATM Çekimi
+2024-03-11,Fatura Ödemesi,378.84,Fatura Ödemesi,Su
+2024-03-15,Alışveriş,469.44,ATM,ATM Çekimi
+2024-03-18,Alışveriş,104.76,ATM,ATM Çekimi
+2024-03-23,ATM Çekimi,465.56,Kafe,Gloria Jeans
+2024-03-26,Kafe,167.19,Kafe,Starbucks
+2024-03-20,ATM Çekimi,81.97,Seyahat,Tren
+2024-03-11,Seyahat,221.99,Giyim,H&M
+2024-03-21,Alışveriş,327.5,Kafe,Gloria Jeans
+2024-03-16,Seyahat,252.24,Fatura Ödemesi,Doğalgaz
+2024-03-05,ATM Çekimi,105.31,Giyim,H&M
+2024-03-04,Kafe,243.43,Giyim,Zara
+2024-03-19,Seyahat,433.28,Fatura Ödemesi,Doğalgaz
+2024-03-16,Kafe,303.79,Fatura Ödemesi,Elektrik
+2024-03-18,Seyahat,48.81,Kafe,Gloria Jeans
+2024-03-13,Fatura Ödemesi,432.69,Fatura Ödemesi,Doğalgaz
+2024-03-02,ATM Çekimi,217.59,Seyahat,Otobüs
+2024-03-02,Kafe,459.76,Seyahat,Tren
+2024-03-26,ATM Çekimi,290.9,Seyahat,Tren
+2024-03-31,Alışveriş,82.22,Giyim,LC Waikiki
+2024-03-02,ATM Çekimi,24.98,ATM,ATM Çekimi
+2024-03-23,Kafe,479.6,Giyim,H&M
+2024-03-11,Alışveriş,183.09,ATM,ATM Çekimi
+2024-03-07,Seyahat,368.73,Seyahat,Tren
+2024-03-16,Kafe,67.22,ATM,ATM Çekimi
+2024-03-13,ATM Çekimi,67.43,Fatura Ödemesi,Doğalgaz
+2024-03-06,ATM Çekimi,43.06,Seyahat,Otobüs
+2024-03-14,Seyahat,116.21,Giyim,LC Waikiki
+2024-03-13,Seyahat,441.07,Kafe,Gloria Jeans
+2024-03-31,Fatura Ödemesi,435.28,ATM,ATM Çekimi
+2024-03-13,Kafe,138.22,Kafe,Kahve Dünyası
+2024-03-01,ATM Çekimi,316.99,Fatura Ödemesi,Elektrik
+2024-03-08,Kafe,228.74,ATM,ATM Çekimi
+2024-03-16,Fatura Ödemesi,486.9,Giyim,LC Waikiki
+2024-03-19,Alışveriş,414.73,Seyahat,Tren
+2024-03-26,Alışveriş,316.53,Seyahat,Tren
+2024-03-01,Fatura Ödemesi,76.24,Fatura Ödemesi,Elektrik
+2024-03-23,Seyahat,195.5,Fatura Ödemesi,Su
+2024-03-08,Fatura Ödemesi,284.82,Fatura Ödemesi,Elektrik
+2024-03-26,Alışveriş,210.47,Giyim,Zara
+2024-03-21,Fatura Ödemesi,203.43,Giyim,LC Waikiki
+2024-03-10,Alışveriş,326.21,Fatura Ödemesi,Doğalgaz
+2024-03-29,Kafe,82.51,Seyahat,Uçak
+2024-03-16,ATM Çekimi,342.13,Seyahat,Otobüs
+2024-03-19,Fatura Ödemesi,72.44,ATM,ATM Çekimi
+2024-03-22,Seyahat,373.94,Giyim,LC Waikiki
+2024-03-27,Kafe,67.41,Giyim,H&M
+2024-03-02,ATM Çekimi,451.9,Kafe,Starbucks
+2024-03-21,ATM Çekimi,17.4,Giyim,LC Waikiki
+2024-03-11,Seyahat,273.89,Kafe,Gloria Jeans
+2024-03-08,Alışveriş,323.44,Kafe,Kahve Dünyası
+2024-03-13,Alışveriş,67.95,Giyim,LC Waikiki
+2024-03-22,ATM Çekimi,129.85,Fatura Ödemesi,Elektrik
+2024-03-06,Kafe,228.44,Fatura Ödemesi,Doğalgaz
+2024-03-24,Fatura Ödemesi,33.63,ATM,ATM Çekimi
+2024-03-31,Kafe,38.11,ATM,ATM Çekimi
+2024-03-21,Alışveriş,344.94,Kafe,Gloria Jeans
+2024-03-20,Seyahat,398.39,Kafe,Starbucks
+2024-03-13,Seyahat,93.7,Fatura Ödemesi,Elektrik
+2024-03-17,ATM Çekimi,326.36,Fatura Ödemesi,Su
+2024-03-16,Kafe,275.38,Kafe,Starbucks
+2024-03-11,Alışveriş,119.99,Kafe,Gloria Jeans
+2024-03-18,Seyahat,67.4,Fatura Ödemesi,Su
+2024-03-17,Kafe,458.78,Fatura Ödemesi,Doğalgaz
+2024-03-31,Alışveriş,418.2,Giyim,Zara
+2024-03-01,Kafe,86.86,Kafe,Gloria Jeans
+2024-03-15,Kafe,276.56,Kafe,Kahve Dünyası
+2024-03-21,ATM Çekimi,462.18,Kafe,Kahve Dünyası
+2024-03-05,Seyahat,296.3,Kafe,Starbucks
+2024-03-15,Fatura Ödemesi,428.81,Seyahat,Tren
+2024-03-26,Seyahat,498.29,Kafe,Starbucks
+2024-03-03,Kafe,45.78,ATM,ATM Çekimi
+2024-03-13,ATM Çekimi,423.7,Seyahat,Tren
+2024-03-26,Fatura Ödemesi,49.81,Giyim,H&M
+2024-03-10,Seyahat,498.49,Seyahat,Otobüs
+2024-03-26,Seyahat,87.35,Seyahat,Tren
+2024-03-04,Kafe,294.11,Fatura Ödemesi,Elektrik
+2024-03-28,Fatura Ödemesi,115.37,Fatura Ödemesi,Su
+2024-03-31,Fatura Ödemesi,80.84,Fatura Ödemesi,Elektrik
+2024-03-06,Fatura Ödemesi,243.2,Giyim,LC Waikiki
+2024-03-05,Kafe,433.69,Seyahat,Tren
+2024-03-09,Alışveriş,123.9,ATM,ATM Çekimi
+2024-03-09,Seyahat,252.4,Fatura Ödemesi,Su
+2024-03-01,Seyahat,315.43,Fatura Ödemesi,Su
+2024-03-18,Alışveriş,168.52,Giyim,H&M
+2024-03-20,Kafe,386.19,ATM,ATM Çekimi
+2024-03-02,ATM Çekimi,264.13,Kafe,Kahve Dünyası
+2024-03-24,Kafe,134.74,ATM,ATM Çekimi
+2024-03-26,ATM Çekimi,190.62,Kafe,Starbucks
+2024-03-04,ATM Çekimi,396.34,Kafe,Gloria Jeans
+2024-03-06,Alışveriş,370.77,ATM,ATM Çekimi
+2024-03-21,ATM Çekimi,238.48,Kafe,Kahve Dünyası
+2024-03-24,Fatura Ödemesi,196.55,Giyim,Zara
+2024-03-06,Alışveriş,229.34,Kafe,Kahve Dünyası
+2024-03-15,Fatura Ödemesi,456.46,Fatura Ödemesi,Elektrik
+2024-03-03,Kafe,296.93,Giyim,Zara
+2024-03-06,Seyahat,14.96,Seyahat,Tren
+2024-03-08,ATM Çekimi,436.44,Fatura Ödemesi,Doğalgaz
+2024-03-10,Seyahat,46.86,Giyim,LC Waikiki
+2024-03-21,Seyahat,410.67,Kafe,Starbucks
+2024-03-22,Seyahat,49.12,Fatura Ödemesi,Su
+2024-03-24,Seyahat,429.28,Seyahat,Otobüs
+2024-03-30,ATM Çekimi,117.96,Seyahat,Uçak
+2024-03-02,Seyahat,280.05,Fatura Ödemesi,Su
+2024-03-23,ATM Çekimi,331.41,Giyim,H&M
+2024-03-17,Seyahat,422.59,Fatura Ödemesi,Elektrik
+2024-03-14,Kafe,197.09,Seyahat,Otobüs
+2024-03-19,Fatura Ödemesi,158.62,Fatura Ödemesi,Elektrik
+2024-03-01,Fatura Ödemesi,48.71,Giyim,LC Waikiki
+2024-03-06,Seyahat,257.92,ATM,ATM Çekimi
+2024-03-26,Kafe,60.23,Seyahat,Tren
+2024-04-07,Alışveriş,169.28,Restoran,Fine Dining
+2024-04-02,Eğitim,393.36,ATM,ATM Çekimi
+2024-04-03,Alışveriş,458.48,Restoran,Fast Food
+2024-04-06,Spor,459.53,Restoran,Fast Food
+2024-04-01,Spor,293.21,Spor,Spor Salonu
+2024-04-23,Restoran,394.51,ATM,ATM Çekimi
+2024-04-27,Eğitim,227.74,Restoran,Fine Dining
+2024-04-07,Restoran,10.12,Spor,Spor Salonu
+2024-04-28,Restoran,36.38,ATM,ATM Çekimi
+2024-04-18,Eğitim,394.47,Fatura Ödemesi,Telefon
+2024-04-02,Spor,470.37,Eğitim,Kurs
+2024-04-19,Restoran,479.76,Spor,Ekipman
+2024-04-10,Restoran,486.58,ATM,ATM Çekimi
+2024-04-30,Alışveriş,230.4,Spor,Üyelik
+2024-04-06,Restoran,139.33,ATM,ATM Çekimi
+2024-04-05,Spor,33.04,Fatura Ödemesi,Su
+2024-04-24,Spor,326.35,Eğitim,Kurs
+2024-04-15,Restoran,129.86,Restoran,Fine Dining
+2024-04-29,Fatura Ödemesi,399.8,Fatura Ödemesi,İnternet
+2024-04-01,Alışveriş,92.2,Eğitim,Kitap
+2024-04-25,Fatura Ödemesi,343.72,Restoran,Fine Dining
+2024-04-19,Restoran,11.08,ATM,ATM Çekimi
+2024-04-23,Eğitim,107.34,Spor,Ekipman
+2024-04-07,Spor,451.96,Restoran,Fast Food
+2024-04-08,Eğitim,124.8,Eğitim,Kitap
+2024-04-03,Eğitim,324.26,Eğitim,Kitap
+2024-04-18,Eğitim,352.26,Restoran,Fine Dining
+2024-04-14,Alışveriş,137.09,Spor,Ekipman
+2024-04-09,Fatura Ödemesi,496.83,ATM,ATM Çekimi
+2024-04-13,Restoran,351.74,Spor,Ekipman
+2024-04-28,Restoran,343.11,Eğitim,Kurs
+2024-04-08,Spor,484.85,Restoran,Cafe
+2024-04-23,Spor,443.89,Spor,Spor Salonu
+2024-04-19,Restoran,104.61,Fatura Ödemesi,Telefon
+2024-04-24,Alışveriş,415.95,Fatura Ödemesi,Telefon
+2024-04-26,Alışveriş,466.52,Restoran,Fine Dining
+2024-04-09,Spor,222.17,Spor,Üyelik
+2024-04-05,Restoran,135.97,Eğitim,Seminer
+2024-04-22,Alışveriş,267.77,ATM,ATM Çekimi
+2024-04-08,Fatura Ödemesi,304.4,Eğitim,Seminer
+2024-04-07,Restoran,159.92,Eğitim,Kurs
+2024-04-01,Fatura Ödemesi,83.01,Fatura Ödemesi,İnternet
+2024-04-21,Alışveriş,80.18,Fatura Ödemesi,İnternet
+2024-04-01,Fatura Ödemesi,261.61,ATM,ATM Çekimi
+2024-04-22,Restoran,12.79,Restoran,Cafe
+2024-04-16,Restoran,137.96,Fatura Ödemesi,Telefon
+2024-04-30,Eğitim,291.61,Spor,Spor Salonu
+2024-04-07,Restoran,67.91,Eğitim,Kurs
+2024-04-01,Eğitim,301.5,Eğitim,Kurs
+2024-04-21,Restoran,192.52,Fatura Ödemesi,İnternet
+2024-04-19,Eğitim,118.79,Spor,Spor Salonu
+2024-04-24,Eğitim,119.36,Spor,Üyelik
+2024-04-09,Spor,208.7,Eğitim,Seminer
+2024-04-30,Spor,332.67,Spor,Üyelik
+2024-04-20,Eğitim,53.86,Fatura Ödemesi,İnternet
+2024-04-07,Fatura Ödemesi,430.72,Fatura Ödemesi,Su
+2024-04-06,Restoran,29.95,ATM,ATM Çekimi
+2024-04-24,Restoran,481.85,Spor,Üyelik
+2024-04-28,Restoran,61.32,Eğitim,Kurs
+2024-04-30,Restoran,496.69,Restoran,Fast Food
+2024-04-10,Restoran,21.44,ATM,ATM Çekimi
+2024-04-08,Spor,195.39,Eğitim,Seminer
+2024-04-16,Fatura Ödemesi,498.51,Eğitim,Kitap
+2024-04-10,Spor,461.78,Spor,Ekipman
+2024-04-11,Fatura Ödemesi,343.32,ATM,ATM Çekimi
+2024-04-27,Alışveriş,25.61,Spor,Ekipman
+2024-04-14,Spor,437.21,ATM,ATM Çekimi
+2024-04-21,Eğitim,333.65,Fatura Ödemesi,Su
+2024-04-21,Spor,190.28,Restoran,Cafe
+2024-04-27,Alışveriş,31.46,Spor,Spor Salonu
+2024-04-27,Spor,44.61,Spor,Üyelik
+2024-04-28,Alışveriş,109.79,Fatura Ödemesi,Telefon
+2024-04-12,Spor,41.12,ATM,ATM Çekimi
+2024-04-02,Eğitim,104.13,Eğitim,Seminer
+2024-04-23,Restoran,130.04,ATM,ATM Çekimi
+2024-04-27,Restoran,366.67,Fatura Ödemesi,İnternet
+2024-04-17,Eğitim,419.08,Spor,Üyelik
+2024-04-08,Eğitim,420.8,Eğitim,Kitap
+2024-04-15,Eğitim,19.2,ATM,ATM Çekimi
+2024-04-16,Fatura Ödemesi,445.44,Fatura Ödemesi,İnternet
+2024-04-02,Restoran,327.77,Restoran,Fine Dining
+2024-04-24,Restoran,193.4,Restoran,Fine Dining
+2024-04-12,Eğitim,285.9,Fatura Ödemesi,Telefon
+2024-04-20,Alışveriş,434.32,Eğitim,Kurs
+2024-04-26,Eğitim,426.99,Spor,Ekipman
+2024-04-23,Fatura Ödemesi,23.72,Spor,Ekipman
+2024-04-20,Spor,454.52,Eğitim,Kitap
+2024-04-16,Fatura Ödemesi,17.23,ATM,ATM Çekimi
+2024-04-23,Alışveriş,417.49,Fatura Ödemesi,Telefon
+2024-04-08,Eğitim,248.33,Spor,Üyelik
+2024-04-25,Fatura Ödemesi,333.21,ATM,ATM Çekimi
+2024-04-11,Fatura Ödemesi,190.12,Spor,Üyelik
+2024-04-17,Alışveriş,317.75,ATM,ATM Çekimi
+2024-04-01,Eğitim,184.71,Fatura Ödemesi,Telefon
+2024-04-16,Eğitim,153.7,Fatura Ödemesi,İnternet
+2024-04-13,Eğitim,205.88,Fatura Ödemesi,Su
+2024-04-09,Spor,45.04,Fatura Ödemesi,Su
+2024-04-12,Alışveriş,181.83,Eğitim,Kitap
+2024-04-28,Alışveriş,61.51,Spor,Spor Salonu
+2024-04-19,Fatura Ödemesi,394.67,Fatura Ödemesi,Su
+2024-04-09,Alışveriş,115.32,Fatura Ödemesi,İnternet
+2024-04-26,Spor,120.26,Spor,Spor Salonu
+2024-04-16,Restoran,466.56,Restoran,Fast Food
+2024-04-23,Fatura Ödemesi,419.64,Fatura Ödemesi,Su
+2024-04-22,Eğitim,163.63,Restoran,Cafe
+2024-04-12,Spor,203.65,Fatura Ödemesi,Telefon
+2024-04-10,Restoran,56.33,Fatura Ödemesi,Su
+2024-04-08,Fatura Ödemesi,32.45,Restoran,Fast Food
+2024-04-26,Fatura Ödemesi,202.23,ATM,ATM Çekimi
+2024-04-18,Fatura Ödemesi,54.04,Fatura Ödemesi,İnternet
+2024-04-29,Restoran,405.82,Fatura Ödemesi,Su
+2024-04-05,Eğitim,479.27,Restoran,Fine Dining
+2024-04-20,Restoran,207.43,Restoran,Cafe
+2024-04-15,Spor,455.91,Eğitim,Kurs
+2024-04-17,Fatura Ödemesi,166.3,Restoran,Cafe
+2024-04-18,Eğitim,70.6,Restoran,Fast Food
+2024-04-28,Restoran,326.06,Spor,Ekipman
+2024-04-29,Spor,191.65,Eğitim,Kitap
+2024-04-19,Restoran,403.23,ATM,ATM Çekimi
+2024-04-11,Fatura Ödemesi,237.15,Restoran,Cafe
+2024-04-29,Fatura Ödemesi,106.37,Restoran,Fine Dining
+2024-04-21,Alışveriş,304.51,Fatura Ödemesi,Telefon
+2024-04-07,Restoran,29.48,Eğitim,Kitap
+2024-04-24,Spor,459.51,Eğitim,Kurs
+2024-04-14,Eğitim,465.68,Eğitim,Seminer
+2024-04-29,Restoran,343.0,Restoran,Fine Dining
+2024-04-03,Eğitim,63.31,Eğitim,Kitap
+2024-04-06,Alışveriş,263.29,Restoran,Fine Dining
+2024-04-16,Spor,187.96,Spor,Ekipman
+2024-04-14,Fatura Ödemesi,424.71,Restoran,Fine Dining
+2024-04-14,Alışveriş,45.76,Restoran,Fine Dining
+2024-04-02,Restoran,448.25,ATM,ATM Çekimi
+2024-04-15,Spor,185.92,Fatura Ödemesi,İnternet
+2024-04-29,Alışveriş,91.28,Restoran,Fast Food
+2024-04-15,Fatura Ödemesi,100.84,Restoran,Cafe
+2024-04-20,Eğitim,471.56,ATM,ATM Çekimi
+2024-04-02,Spor,434.91,Fatura Ödemesi,Telefon
+2024-04-22,Restoran,24.5,Eğitim,Kurs
+2024-04-20,Fatura Ödemesi,385.34,Spor,Ekipman
+2024-04-02,Spor,77.5,ATM,ATM Çekimi
+2024-04-07,Alışveriş,362.16,Eğitim,Kurs
+2024-04-23,Fatura Ödemesi,415.08,ATM,ATM Çekimi
+2024-04-23,Eğitim,282.03,Fatura Ödemesi,Su
+2024-04-03,Alışveriş,451.6,Restoran,Fast Food
+2024-04-29,Eğitim,266.69,Fatura Ödemesi,İnternet
+2024-04-19,Fatura Ödemesi,24.51,Eğitim,Kurs
+2024-04-15,Eğitim,350.69,Restoran,Fine Dining
+2024-04-02,Spor,361.94,Fatura Ödemesi,İnternet
+2024-04-06,Spor,67.06,Spor,Üyelik
+2024-04-05,Alışveriş,489.07,Eğitim,Kitap
+2024-04-14,Restoran,122.45,Spor,Ekipman
+2024-04-12,Restoran,277.8,Restoran,Fine Dining
+2024-04-25,Spor,224.63,Spor,Ekipman
+2024-04-26,Spor,479.11,Spor,Spor Salonu
+2024-04-10,Fatura Ödemesi,182.97,ATM,ATM Çekimi
+2024-04-17,Alışveriş,458.05,Restoran,Cafe
+2024-04-12,Eğitim,457.04,Eğitim,Kitap
+2024-04-12,Eğitim,410.51,Restoran,Cafe
+2024-04-12,Spor,25.43,ATM,ATM Çekimi
+2024-04-22,Fatura Ödemesi,467.4,Fatura Ödemesi,Telefon
+2024-04-18,Spor,330.96,Fatura Ödemesi,Telefon
+2024-04-17,Spor,17.05,ATM,ATM Çekimi
+2024-04-29,Eğitim,475.72,Restoran,Cafe
+2024-04-10,Alışveriş,499.47,Fatura Ödemesi,İnternet
+2024-04-12,Fatura Ödemesi,181.08,Fatura Ödemesi,İnternet
+2024-04-29,Alışveriş,495.59,Spor,Spor Salonu
+2024-04-26,Fatura Ödemesi,336.43,Eğitim,Seminer
+2024-04-07,Fatura Ödemesi,130.49,Fatura Ödemesi,Su
+2024-04-06,Spor,208.0,Eğitim,Seminer
+2024-04-15,Fatura Ödemesi,443.1,Eğitim,Kurs
+2024-04-01,Fatura Ödemesi,63.71,ATM,ATM Çekimi
+2024-04-14,Spor,291.3,Fatura Ödemesi,Telefon
+2024-04-21,Restoran,257.83,Eğitim,Kitap
+2024-04-18,Spor,305.34,Restoran,Fast Food
+2024-04-03,Alışveriş,383.92,ATM,ATM Çekimi
+2024-04-17,Restoran,240.53,Fatura Ödemesi,Su
+2024-04-08,Fatura Ödemesi,362.45,Restoran,Fast Food
+2024-04-28,Alışveriş,456.86,Fatura Ödemesi,Su
+2024-04-05,Eğitim,365.04,Fatura Ödemesi,Su
+2024-04-03,Spor,419.34,Fatura Ödemesi,Telefon
+2024-04-28,Alışveriş,84.22,Eğitim,Kitap
+2024-04-20,Eğitim,272.38,ATM,ATM Çekimi
+2024-04-30,Fatura Ödemesi,385.64,ATM,ATM Çekimi
+2024-04-18,Spor,312.78,Spor,Ekipman
+2024-04-18,Spor,452.23,ATM,ATM Çekimi
+2024-04-26,Alışveriş,114.58,Fatura Ödemesi,İnternet
+2024-04-18,Alışveriş,234.98,Fatura Ödemesi,Telefon
+2024-04-23,Alışveriş,375.16,Spor,Üyelik
+2024-04-22,Restoran,309.49,Spor,Spor Salonu
+2024-04-02,Restoran,226.31,ATM,ATM Çekimi
+2024-04-30,Eğitim,163.22,ATM,ATM Çekimi
+2024-04-11,Eğitim,175.07,Restoran,Cafe
+2024-04-25,Fatura Ödemesi,275.09,Fatura Ödemesi,Telefon
+2024-04-18,Alışveriş,244.89,Eğitim,Kurs
+2024-04-02,Restoran,355.49,ATM,ATM Çekimi
+2024-04-03,Alışveriş,358.87,ATM,ATM Çekimi
+2024-04-20,Fatura Ödemesi,472.19,ATM,ATM Çekimi
+2024-04-02,Fatura Ödemesi,444.63,Fatura Ödemesi,İnternet
+2024-04-30,Fatura Ödemesi,126.39,Spor,Spor Salonu
+2024-04-21,Restoran,19.51,Restoran,Fast Food
+2024-04-27,Eğitim,476.38,Restoran,Fine Dining
+2024-04-23,Alışveriş,301.59,Spor,Üyelik
+2024-04-02,Fatura Ödemesi,356.53,Eğitim,Kitap
+2024-04-10,Alışveriş,495.73,Eğitim,Seminer
+2024-04-28,Spor,92.48,ATM,ATM Çekimi
+2024-04-06,Fatura Ödemesi,255.53,Fatura Ödemesi,İnternet
+2024-04-10,Alışveriş,138.46,Restoran,Fast Food
+2024-04-25,Fatura Ödemesi,172.25,Restoran,Cafe
+2024-04-27,Alışveriş,144.88,Spor,Üyelik
+2024-04-26,Eğitim,278.77,Spor,Ekipman
+2024-04-07,Restoran,198.63,Fatura Ödemesi,İnternet
+2024-04-23,Alışveriş,375.48,Spor,Spor Salonu
+2024-04-11,Alışveriş,104.67,Restoran,Fast Food
+2024-04-15,Spor,389.57,ATM,ATM Çekimi
+2024-04-15,Alışveriş,375.09,ATM,ATM Çekimi
+2024-04-11,Alışveriş,72.18,ATM,ATM Çekimi
+2024-04-04,Alışveriş,455.01,Spor,Ekipman
+2024-04-02,Alışveriş,478.73,Restoran,Fine Dining
+2024-04-22,Restoran,26.87,Restoran,Cafe
+2024-04-01,Restoran,98.06,Fatura Ödemesi,İnternet
+2024-04-03,Spor,308.29,Spor,Spor Salonu
+2024-04-10,Eğitim,339.75,Spor,Spor Salonu
+2024-04-29,Spor,184.34,Spor,Üyelik
+2024-04-25,Alışveriş,50.33,Fatura Ödemesi,İnternet
+2024-04-21,Eğitim,171.6,Eğitim,Kitap
+2024-04-09,Restoran,44.99,ATM,ATM Çekimi
+2024-04-28,Restoran,386.63,Fatura Ödemesi,Su
+2024-04-06,Spor,219.02,Fatura Ödemesi,Telefon
+2024-04-30,Fatura Ödemesi,323.75,Eğitim,Kitap
+2024-04-27,Eğitim,45.32,ATM,ATM Çekimi
+2024-04-25,Alışveriş,474.8,Fatura Ödemesi,Su
+2024-04-10,Restoran,88.55,Fatura Ödemesi,İnternet
+2024-04-26,Spor,273.38,Fatura Ödemesi,Su
+2024-04-19,Spor,16.07,ATM,ATM Çekimi
+2024-04-24,Alışveriş,347.15,Fatura Ödemesi,İnternet
+2024-04-19,Spor,368.72,Fatura Ödemesi,İnternet
+2024-04-11,Eğitim,16.89,ATM,ATM Çekimi
+2024-04-08,Eğitim,490.6,Fatura Ödemesi,Su
+2024-04-10,Restoran,231.72,Fatura Ödemesi,Su
+2024-04-08,Spor,437.06,Eğitim,Seminer
+2024-04-18,Restoran,70.11,Eğitim,Seminer
+2024-04-23,Spor,67.54,ATM,ATM Çekimi
+2024-04-20,Fatura Ödemesi,283.42,Spor,Spor Salonu
+2024-04-30,Eğitim,93.93,Spor,Ekipman
+2024-04-22,Eğitim,197.31,Spor,Spor Salonu
+2024-04-29,Alışveriş,373.7,Fatura Ödemesi,Telefon
+2024-04-01,Fatura Ödemesi,255.8,ATM,ATM Çekimi
+2024-04-25,Spor,125.44,Spor,Ekipman
+2024-04-22,Spor,163.08,Eğitim,Kurs
+2024-04-23,Spor,112.05,ATM,ATM Çekimi
+2024-04-16,Restoran,159.8,Fatura Ödemesi,Su
+2024-04-12,Spor,476.25,Restoran,Cafe
+2024-04-28,Eğitim,123.3,Restoran,Fine Dining
+2024-04-26,Restoran,412.31,Spor,Spor Salonu
+2024-04-19,Restoran,471.53,Fatura Ödemesi,Telefon
+2024-04-24,Restoran,483.64,Fatura Ödemesi,Telefon
+2024-04-07,Fatura Ödemesi,429.45,ATM,ATM Çekimi
+2024-04-25,Restoran,207.34,Eğitim,Kitap
+2024-04-07,Eğitim,142.82,Eğitim,Kitap
+2024-04-22,Restoran,44.44,Restoran,Fast Food
+2024-04-22,Restoran,370.66,Fatura Ödemesi,Telefon
+2024-04-30,Eğitim,184.95,Eğitim,Kurs
+2024-04-27,Eğitim,56.63,Eğitim,Seminer
+2024-04-28,Alışveriş,497.18,Restoran,Cafe
+2024-04-28,Fatura Ödemesi,95.82,Spor,Üyelik
+2024-04-05,Eğitim,203.48,Eğitim,Kurs
+2024-04-14,Eğitim,200.45,Eğitim,Kitap
+2024-04-23,Alışveriş,350.62,Restoran,Fine Dining
+2024-04-07,Alışveriş,404.24,ATM,ATM Çekimi
+2024-04-05,Fatura Ödemesi,205.26,Restoran,Cafe
+2024-04-14,Alışveriş,345.42,ATM,ATM Çekimi
+2024-04-19,Eğitim,147.94,Restoran,Fine Dining
+2024-04-23,Eğitim,442.7,Fatura Ödemesi,İnternet
+2024-04-03,Eğitim,146.51,Spor,Üyelik
+2024-04-25,Alışveriş,325.54,Spor,Spor Salonu
+2024-04-08,Restoran,66.81,Eğitim,Kurs
+2024-04-19,Eğitim,115.06,ATM,ATM Çekimi
+2024-04-01,Spor,11.52,Eğitim,Seminer
+2024-04-21,Spor,327.69,Fatura Ödemesi,Su
+2024-04-09,Alışveriş,337.1,ATM,ATM Çekimi
+2024-04-13,Spor,338.37,Restoran,Cafe
+2024-04-26,Eğitim,489.91,Eğitim,Seminer
+2024-04-15,Alışveriş,498.66,Fatura Ödemesi,Telefon
+2024-04-08,Spor,102.1,Spor,Ekipman
+2024-04-27,Restoran,493.5,Spor,Spor Salonu
+2024-04-10,Fatura Ödemesi,172.16,Restoran,Cafe
+2024-04-09,Restoran,365.52,Spor,Spor Salonu
+2024-04-21,Restoran,419.84,Fatura Ödemesi,Telefon
+2024-04-16,Eğitim,313.55,ATM,ATM Çekimi
+2024-04-29,Restoran,468.96,ATM,ATM Çekimi
+2024-04-21,Restoran,98.0,Fatura Ödemesi,Telefon
+2024-04-12,Alışveriş,194.03,Restoran,Fast Food
+2024-04-09,Eğitim,230.23,ATM,ATM Çekimi
+2024-04-29,Restoran,129.3,Spor,Ekipman
+2024-04-07,Eğitim,454.19,ATM,ATM Çekimi
+2024-04-06,Fatura Ödemesi,365.99,Eğitim,Kurs
+2024-04-09,Spor,170.94,Fatura Ödemesi,Telefon
+2024-04-25,Alışveriş,303.82,Spor,Spor Salonu
+2024-04-10,Fatura Ödemesi,432.8,Eğitim,Kitap
+2024-04-13,Alışveriş,474.45,Fatura Ödemesi,İnternet
+2024-04-03,Alışveriş,68.31,ATM,ATM Çekimi
+2024-04-26,Spor,207.09,Eğitim,Seminer
+2024-04-21,Spor,32.56,Fatura Ödemesi,İnternet
+2024-04-04,Fatura Ödemesi,213.87,Fatura Ödemesi,Telefon
+2024-04-30,Alışveriş,403.78,Eğitim,Kitap
+2024-04-28,Alışveriş,390.86,ATM,ATM Çekimi
+2024-04-04,Restoran,51.12,Spor,Spor Salonu
+2024-04-18,Eğitim,250.36,Spor,Üyelik
+2024-04-18,Fatura Ödemesi,82.94,Eğitim,Kitap
+2024-04-28,Alışveriş,205.65,ATM,ATM Çekimi
+2024-04-21,Eğitim,164.32,Fatura Ödemesi,İnternet
+2024-04-12,Alışveriş,404.79,Spor,Spor Salonu
+2024-04-18,Restoran,218.36,Eğitim,Kurs
+2024-04-16,Restoran,277.83,Fatura Ödemesi,İnternet
+2024-04-09,Restoran,198.39,ATM,ATM Çekimi
+2024-04-13,Eğitim,79.15,Restoran,Cafe
+2024-04-03,Spor,212.08,Eğitim,Kurs
+2024-04-14,Alışveriş,333.87,Fatura Ödemesi,Telefon
+2024-04-15,Eğitim,289.56,ATM,ATM Çekimi
+2024-04-05,Fatura Ödemesi,310.11,Restoran,Fine Dining
+2024-04-03,Eğitim,374.73,Spor,Ekipman
+2024-04-11,Spor,426.8,ATM,ATM Çekimi
+2024-04-30,Spor,381.82,Restoran,Fast Food
+2024-04-03,Eğitim,107.06,Fatura Ödemesi,İnternet
+2024-04-24,Fatura Ödemesi,263.43,Fatura Ödemesi,Su
+2024-04-28,Spor,336.92,ATM,ATM Çekimi
+2024-04-03,Eğitim,288.08,ATM,ATM Çekimi
+2024-04-20,Restoran,443.67,Fatura Ödemesi,İnternet
+2024-04-03,Restoran,97.3,Spor,Ekipman
+2024-04-04,Alışveriş,348.98,Eğitim,Kurs
+2024-04-09,Spor,358.1,Restoran,Cafe
+2024-04-04,Spor,347.45,ATM,ATM Çekimi
+2024-04-21,Eğitim,287.22,ATM,ATM Çekimi
+2024-04-16,Spor,225.78,Eğitim,Kurs
+2024-04-07,Fatura Ödemesi,336.05,Fatura Ödemesi,Su
+2024-04-23,Alışveriş,146.67,Fatura Ödemesi,Telefon
+2024-04-16,Alışveriş,302.64,ATM,ATM Çekimi
+2024-04-03,Restoran,321.54,Eğitim,Seminer
+2024-04-28,Fatura Ödemesi,421.02,ATM,ATM Çekimi
+2024-04-17,Eğitim,63.38,Spor,Ekipman
+2024-04-23,Fatura Ödemesi,47.13,ATM,ATM Çekimi
+2024-04-18,Spor,95.33,Restoran,Fast Food
+2024-04-18,Fatura Ödemesi,116.83,Spor,Spor Salonu
+2024-04-24,Eğitim,403.22,ATM,ATM Çekimi
+2024-04-14,Restoran,322.33,Fatura Ödemesi,İnternet
+2024-04-30,Spor,374.52,Restoran,Fast Food
+2024-04-01,Spor,33.3,ATM,ATM Çekimi
+2024-04-22,Fatura Ödemesi,426.24,Eğitim,Kurs
+2024-04-04,Restoran,206.81,Eğitim,Kitap
+2024-04-30,Restoran,441.41,ATM,ATM Çekimi
+2024-04-21,Alışveriş,384.57,Restoran,Cafe
+2024-04-29,Fatura Ödemesi,336.04,ATM,ATM Çekimi
+2024-04-15,Spor,305.63,Eğitim,Seminer
+2024-04-16,Spor,148.5,Restoran,Cafe
+2024-04-29,Spor,244.75,Fatura Ödemesi,Telefon
+2024-04-13,Restoran,294.06,Restoran,Fast Food
+2024-04-16,Spor,377.91,Fatura Ödemesi,Telefon
+2024-04-16,Restoran,256.02,Restoran,Cafe
+2024-04-06,Fatura Ödemesi,425.21,ATM,ATM Çekimi
+2024-04-06,Alışveriş,278.58,ATM,ATM Çekimi
+2024-04-02,Alışveriş,468.03,Eğitim,Kurs
+2024-04-14,Spor,384.84,Restoran,Cafe
+2024-04-10,Fatura Ödemesi,337.87,Spor,Spor Salonu
+2024-04-24,Alışveriş,205.21,Fatura Ödemesi,Su
+2024-04-16,Alışveriş,148.16,ATM,ATM Çekimi
+2024-04-13,Fatura Ödemesi,155.25,Restoran,Fine Dining
+2024-04-07,Restoran,108.48,Restoran,Fast Food
+2024-04-11,Spor,16.11,Fatura Ödemesi,Telefon
+2024-04-01,Alışveriş,375.95,Fatura Ödemesi,İnternet
+2024-04-14,Eğitim,408.37,Spor,Üyelik
+2024-04-04,Spor,143.04,Spor,Üyelik
+2024-04-06,Eğitim,372.15,Restoran,Cafe
+2024-04-08,Spor,373.62,Spor,Spor Salonu
+2024-04-17,Alışveriş,264.46,Fatura Ödemesi,Su
+2024-04-06,Eğitim,108.53,Fatura Ödemesi,Su
+2024-04-11,Fatura Ödemesi,259.57,Fatura Ödemesi,Su
+2024-04-17,Alışveriş,311.71,Spor,Üyelik
+2024-04-19,Spor,179.4,Spor,Ekipman
+2024-04-21,Restoran,364.68,Fatura Ödemesi,İnternet
+2024-04-30,Eğitim,285.86,ATM,ATM Çekimi
+2024-04-05,Spor,481.15,Restoran,Cafe
+2024-04-20,Spor,306.38,Eğitim,Kitap
+2024-04-07,Restoran,388.42,Restoran,Cafe
+2024-04-26,Fatura Ödemesi,452.34,ATM,ATM Çekimi
+2024-04-25,Spor,92.27,Restoran,Fine Dining
+2024-04-15,Alışveriş,495.6,Eğitim,Seminer
+2024-04-07,Alışveriş,361.94,Spor,Ekipman
+2024-04-18,Fatura Ödemesi,292.68,Fatura Ödemesi,İnternet
+2024-04-26,Spor,284.6,ATM,ATM Çekimi
+2024-04-05,Alışveriş,455.85,ATM,ATM Çekimi
+2024-04-13,Restoran,15.79,Restoran,Cafe
+2024-04-21,Alışveriş,286.38,Spor,Spor Salonu
+2024-04-16,Restoran,192.3,Spor,Spor Salonu
+2024-04-21,Fatura Ödemesi,442.94,Spor,Üyelik
+2024-04-26,Fatura Ödemesi,455.18,Eğitim,Kurs
+2024-04-16,Restoran,405.23,Fatura Ödemesi,Su
+2024-04-26,Eğitim,55.38,Spor,Ekipman
+2024-04-01,Spor,96.4,Fatura Ödemesi,Su
+2024-04-15,Restoran,451.55,Eğitim,Kitap
+2024-04-20,Fatura Ödemesi,383.94,ATM,ATM Çekimi
