@@ -6,7 +6,7 @@ This application was developed as part of the Fintern Future Talent Hackathon. I
 
 - [LangChain](https://python.langchain.com/v0.2/docs/introduction/) - LangChain version: 0.2.5
 - [PandasAI](https://docs.pandas-ai.com/intro) - PandasAI version: 2.1.1 
-- [Streamlit](https://docs.streamlit.io/) - Streamlit version: 1.29.0
+- [Streamlit](https://docs.streamlit.io/) - Streamlit version: 1.36.0
 
 ---
 
