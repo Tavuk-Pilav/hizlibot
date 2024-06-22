@@ -1,5 +1,5 @@
 pandasai==2.1.1
-streamlit==1.29.0
+streamlit==1.36.0
 streamlit-chat==0.1.1
 streamlit-extras==0.4.3
 openai==1.33.0
