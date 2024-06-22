@@ -35,10 +35,13 @@ Yukarıdaki bağlama dayanarak soruyu cevapla: {question}
 # Initialize PandasAI and SmartDataframe
 llm = OpenAI(api_token=OPENAI_API_KEY)
 
-data = pd.read_csv('Data/harcama_gecmisi_ocak_subat_mart_nisan.csv')
+data = pd.read_csv('Data/harcama_gecmisi_ocak_subat_mart_nisan_final.csv')
 
 
 field_descriptions = {
+    'Yıl': 'Harcamanın yapıldığı yıl. (Örneğin: 2024)',
+    'Ay': 'Harcamanın yapıldığı ay. (Örneğin: Ocak)',
+    'Gün': 'Harcamanın yapıldığı gün. (Örneğin: 15)',
     'Tarih': 'Harcamanın yapıldığı tarih. (Örneğin: 2024-01-15)',
     'İşlem Türü': 'Harcamanın türü. Bu, harcamanın hangi kategoriye girdiğini belirtir. (Örneğin: Alışveriş, Fatura Ödemesi, ATM Çekimi, Restoran, Ulaşım)',
     'Tutar': 'Harcamanın parasal değeri. (Örneğin: 150.75)',
@@ -175,7 +178,7 @@ with response_container:
             st.markdown(f'<div class="user-message">{st.session_state["user_responses"][i]}</div>', unsafe_allow_html=True)
             col1, col2 = st.columns([1, 9])
             with col1:
-                st.image("logo.png", width=50, use_column_width=True, clamp=True, output_format='auto')
+                st.image("images/logo.png", width=50, use_column_width=True, clamp=True, output_format='auto')
             with col2:
                 bot_response = st.session_state["bot_responses"][i]
                 if ".png" in bot_response:
