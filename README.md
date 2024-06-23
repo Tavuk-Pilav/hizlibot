@@ -67,3 +67,5 @@ python3 create_database.py
 streamlit run app.py
 ```
 ---
+
+https://github.com/Future-Talent-Hackathon/chatbot/assets/88631980/551d957a-b3a4-488f-ba05-abf0b5812f22
