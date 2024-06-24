@@ -8,6 +8,11 @@ This application was developed as part of the Fintern Future Talent Hackathon. I
 - [PandasAI](https://docs.pandas-ai.com/intro) - PandasAI version: 2.1.1 
 - [Streamlit](https://docs.streamlit.io/) - Streamlit version: 1.36.0
 
+
+## Architecture
+![mimari](https://github.com/Future-Talent-Hackathon/chatbot/assets/88631980/bc7908cc-9cae-4c03-82ec-f04b4f15732e)
+
+
 ---
 
 ## Requirements
