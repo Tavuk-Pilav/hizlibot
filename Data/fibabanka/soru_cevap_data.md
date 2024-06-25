@@ -1,24 +1,23 @@
-Fibabanka Sıkça Sorulan Sorular eKitabı
+Fibabanka eKitabı
 
 Bu eKitap, www.fibabanka.com adresinde yer alan bilgilerden derlenmiştir.
 
-Başlık: Fibabanka SSS Rehberi
-
 Yazar: Fiba Force Ekibi
-
-Yayın tarihi: 18 Haziran 2024
 
 Dil: Türkçe
 
 Katkıda Bulunanlar: Fibabanka Müşteri Hizmetleri Ekibi
 
-**_ PROJECT FIBABANKA EKİTABI SIKÇA SORULAN SORULARIN BAŞLANGICI _**
+**_ PROJECT FIBABANKA EKITABI BAŞLANGICI _**
 
-[İllüstrasyon]
+Soru: Sen kimsin?
+Cevap: Merhaba ben HızlıBot🐰, benimle Fibabanka ile alakalı her şeyi konuşabilirsiniz. Size nasıl yardımcı olabilirim?
 
-Fibabanka SSS Rehberi
+Soru: Fibabanka'nın sloganı nedir?
+Cevap: Fibabanka'nın sloganı Anlarız hızla, çözeriz hıladır.
 
-by Fiba Force
+Soru: Fibabanka'da kaç kişi çalışmaktadır?
+Cevap: Fibabanka'da genel müdürlükte 1391, şubede ise 539 kişi çalışmaktadır. Toplamda ise 1930 kişi çalışmaktadır.
 
 Soru: Fibabanka'nın çalışma saatleri nedir?
 Cevap: Fibabanka şubeleri hafta içi 09:00 - 17:00 saatleri arasında hizmet vermektedir. Şubelerin yanı sıra, müşteri hizmetleri 7/24 çalışarak her zaman destek sağlamaktadır.
@@ -49,6 +48,28 @@ Cevap: Resmi tatiller ve hafta sonu dahil olmak üzere her gün gündüz 09.00 i
 
 Soru: Kiraz Hesap nedir?
 Cevap: Kiraz Hesap avantajlı gecelik faiz oranlarıyla birikim yapan, birikim yaparken paranızı dilediğiniz gibi kullanma imkanı veren bir mevduat hesabıdır. Dilediğiniz zaman para yatırma, para çekme işlemlerinizi gerçekleştirebilir, hesabınızdan otomatik fatura talimatlarınızı verebilir, Mobil Bankacılık uygulamamızdan EFT/havale işlemlerinizi de ücret ödemeden yapabilirsiniz. Üstelik, hesapta kalan bakiyeniz özel faiz oranları ile gecelik olarak değerlenir.
+
+Soru:Fibabanka Hizmetlerinden Bazıları nelerdir?
+Cevap:Her geçen gün büyürerek hizmetlerini arttıran Fibabanka'nın sunmuş olduğu hizmetlerden bazıları mevduat ve yatırım ürünleri, bireysel,kurumsal ve ticari krediler, ödeme sistemleri, sigorta ve bireysel emeklilik hizmetlerdir.
+27 Aralık 2010 tarihinde Fiba Grubu bünyesine katıldığı günden bugüne; kurumsal, ticari, KOBİ ve işletme, bireysel, tarım ve özel bankacılık alanlarında hizmet vermeye devam ediyor. Faaliyetlerini "Anlarız hızla, çözeriz hızla" anlayışımız ile sürdürürken; müşteri odaklı ve yenilikçi hizmet anlayışı ile müşterilerine en hızlı ve kusursuz hizmeti sunmak için yatırımlarını her geçen gün artırmaya, sunduğu deneyimi sürekli iyileştirerek ihtiyaçlara yönelik en uygun ürün ve hizmetleri geliştirmeye devam ediyor.
+
+Soru:Fibabanka Şubeleri Nerelerdedir?
+Cevap:Türkiye'nin pek çok yerinden Fibabanka'dan hizmet almak mümkün. Fibabanka şubelerinden bazıları; Adana, Ankara, Antalya, Aydın, Bursa, Denizli, Düzce, Eskişehir, Gaziantep, İstanbul, İzmir, Kayseri, Kocaeli, Konya, Manisa, Mersin, Muğla, Şanlıurfa, Tekirdağ gibi illerde bulunmaktadır. Fibabanka'nın güncel rakamlara göre toplamda 66 adet şubesi bulunmaktadır. Fibabanka kredi başvurusu, bankacılık işlemleri, kart işlemleri ve daha pek çok işleminiz için Fibabanka şubelerinden birini ziyaret edebilirsiniz. Ayrıca Fibabanka iletişim bilgilerini öğrenerek Fibabanka müşteri hizmetleri ile de iletişime geçebilirsiniz. Dilerseniz Fibabanka internet bankacılığı hizmetlerinden de faydalanabilir, pek çok işinizi şubeye gitmeden de halledebilirsiniz. Fibabanka ile ilgili merak ettiğiniz kullanıcı yorum ve şikayetlerini ise sitemizden okuyabilir arzu ederseniz siz de yorumlarınızı paylaşabilirsiniz.
+
+
+Soru:Fibabanka kredilerin faiz oranı kaçtır?
+Cevap:Fibabanka kredilerin faiz oranlarını “Kredi” sayfasından kredi tipi, kredi tutarı ve vade seçerek hesaplayabilirsiniz. Fibabanka kredileri ile ilgili daha detaylı bilgi almak için ise buraya tıklayarak Şikayetvar üzerinde yer alan kullanıcı yorum ve şikayetlerini inceleyebilirsiniz. Arzu ederseniz siz de Fibabanka kredi süreçleriyle ilgili yorum ve şikayetlerinizi sayfamızda paylaşabilirsiniz. 
+
+Soru:Fibabanka şubeleri çalışma saati nasıldır?
+CevapFibabanka şubeleri çalışma saatleri hafta içi 09:00-17:00 saatleri arasındadır. 
+
+
+Soru:Fibabanka hesap açma nasıl yapılır?
+Cevap:Fibabanka’dan bir hesap oluşturmak istiyorsanız; size en yakın Fibabanka şubesine uğrayıp kimliğiniz ile birlikte vadesiz hesap oluşturabilirsiniz. Yeni vadesiz mevduat hesabı oluşturmak için ise; internet bankacılığı, mobil bankacılık uygulaması veya 444 88 88 telefon bankacılığını kullanabilirsiniz. 
+
+
+Soru:Fibabanka iletişim bilgileri nelerdir?
+Cevap:Fibabanka iletişim kanalları arasında; 444 88 88 no’lu müşteri hizmetlerini arama, size en yakın Fibabanka şubesini ziyaret etme gibi yöntemler yer almaktadır. Diğer Fibabanka iletişim kanalları için ise buraya tıklayarak Şikayetvar’ı ziyaret edebilirsiniz. 
 
 Soru: Fibabanka İnternet Bankacılığı’nda yapacağım işlemlerde saat sınırlaması var mı?
 Cevap: EFT işlemlerinizi, iş günlerinde saat 09:00 ile 17:00 arasında gerçekleştirebilir, 7 gün 24 saat ileri tarihli EFT talimatı verebilirsiniz. Havale ve fatura ödeme işlemlerinizi ise 7 gün 24 saat gerçekleştirebilirsiniz.
@@ -95,6 +116,36 @@ Cevap: Fibabanka İnternet Bankacılığı üzerinden, 7 gün 24 saat şubeye gi
 Soru: Fibabanka İnternet Bankacılığı’nı kullanırken nelere dikkat etmeliyim?
 Cevap: Fibabanka İnternet Bankacılığı'na, tarayıcınızın adres çubuğuna www.fibabanka.com.tr adresini yazarak giriniz. E-posta ile gelen linkler yolu ile veya başka internet adresleri üzerinden kesinlikle giriş yapmayınız. Bankamız, e-posta yoluyla müşterilerinin kişisel bilgilerini güncellemesini istemez, şifre değişiklikleri yaptırmaz.
 
+
+Soru: Fibabanka'nın genel müdürü yani CEO'su kimdir?
+Cevap: Fibabanka'nın genel müdürü Ömer Mert'tir.
+
+**_ WKIPEDIA BAŞLANGIÇ _**
+Fibabanka, 2010 yılında Millennium Bank'ın Fiba Holding tarafından satın alınmasıyla oluşturulan özel mevduat bankası.
+Tarihçe
+
+Fibabanka'nın kuruluşu, 1984'te Türkiye'de şube açan Amerikalı Manufacturers Hanover Trust Company adlı bankaya dayanmaktadır. Bu bankanın 1991'de diğer bir Amerikalı banka olan Chemical Bank ile birleşmesinin ardından Türkiye şubesinin ismi 3 Şubat 1992'de “Chemical Bank A.Ş.” olarak değiştirildi ve yabancı şirket statüsünden çıkarılarak özel sermayeli mevduat bankası olarak faaliyetine başladı.
+Chemical Bank
+
+1997'de Chemical Bank'ın bir başka Amerikan bankası olan JPMorgan Chase ile birleşmesi sürecinde Türkiye şubesi Sürmeli Grubu'na satıldı ve 26 Mart 1997'de Sitebank adını aldı.
+Sitebank
+
+Sitebank, 4 yılda 68 trilyon lira zarar açıkladı. Bunun üzerine Bankacılık Düzenleme ve Denetleme Kurumu, Sitebank'ın borçları özkaynaklarının ve varlıklarının değerini aştığı ve buna karşı önlem almadığı gerekçesiyle bankaya 9 Temmuz 2001'de el koydu. IMF'nin tavsiyeleri doğrultusunda Tasarruf Mevduatı Sigorta Fonu'na devredildi ve özelleştirileceği duyuruldu.
+Bankeuropa
+
+Sitebank, Ocak 2002'de Portekizli Banco Comercial Português'in Yunanistan'daki iştiraki olan Novabank'a 3,2 Milyon dolara satıldı ve yeniden yabancı sermayeli banka statüsüne geçti. Nisan 2003'te adı Bankeuropa olarak değiştirildi. BCP, 2006'da ismini değiştirerek yine kendi iştiraki olan Polonyalı Millennium Bank'ın ismini aldı. Bunun üzerine Türkiye şubesi olan Bankeuropa'nın adı da Millennium Bank olarak değiştirildi.
+Millennium Bank
+
+BCP, öncelikli pazarlara odaklanma politikası kapsamında Ocak 2009'da Türkiye şubesi olan Millennium Bank'ı satacağını duyurdu. Başlangıçta İsrailli Bank Hapoalim bu satışla ilgilendi ancak sonuç çıkmadı. Daha sonra Hüsnü Özyeğin'in satın alacağı iddia edildi ancak bu iddia yalanlandı. Şubat 2010'da ise Özyeğin, BCP ile anlaşarak Millennium Bank'ı satın aldığını duyurdu.
+
+Fibabanka
+
+2006 yılında Finansbank'ı satarak Türkiye'de bankacılık sektörünü bırakan Hüsnü Özyeğin, sahibi olduğu Hollanda merkezli Credit Europe Bank aracılığıyla Millennium Bank'ı 61,8 milyon dolara satın alarak bankacılığa geri döndü. Satış 27 Aralık 2010'da tamamlandı ancak banka bir süre daha Millennium Bank adıyla Fiba Holding'e bağlı olarak faaliyetlerine devam etti. Mayıs 2011'de bankanın adı Fibabanka olarak değiştirildi.
+
+**_ WKIPEDIA BİTİŞ _**
+
+
+
 Soru: Fibabanka İnternet Bankacılığı’na Fibabanka Mobil’den onay vererek nasıl girebilirim?
 Cevap: Fibabanka Mobil uygulamamıza bugüne kadar en az bir kez giriş yaptıysanız; İnternet Bankacılığı'na giriş yaparken T.C. kimlik veya müşteri numaranızı girip "devam" dedikten sonra, kullandığınız cep telefonuna Bankamızdan bir bildirim gelecektir. Fibabanka Mobil'e gelen bu bildirime tıklayıp açtıktan sonra, açılacak ekrana Mobil veya İnternet Bankacılığı şifrenizi girip "onay"a bastıktan sonra İnternet Bankacılığı'na otomatik olarak giriş gerçekleştireceksiniz. Fibabanka Mobil uygulamasına ilk girişinizde bildirim izni vermemeniz durumunda, Fibabanka Mobil'den bildirim alamayacağınızı paylaşmak isteriz. Bunun yerine Fibabanka Mobil uygulamanıza girip, açılan "ara ekran"a Mobil veya İnternet Bankacılığı şifrenizi girerek İnternet Bankacılığı’na giriş yapabilirsiniz. Sahip olduğunuz cihazınızın bildirim ayarlarından Fibabanka Mobil'e izin verip vermediğinizi kontrol etmenizi önemle hatırlatmak isteriz. Eğer bildirim izniniz kapalıysa, Fibabanka İnternet Bankacılığı'na giriş yaparken kullanacağınız mobil bildirimin gelmesi için bildirimlerinizi mutlaka açmanız gerekmektedir.
 
@@ -112,6 +163,15 @@ Cevap: Fibabanka Mobil uygulamamızı hiç kullanmadıysanız, İnternet Bankac�
 
 Soru: Fibabanka İnternet Bankacılığı'ndan yaptığım finansal işlem onaylarında SMS şifresi gelmiyor, ne yapmalıyım?
 Cevap: Fibabanka Mobil uygulamamızı hiç kullanmadıysanız, finansal işlem onaylarında size SMS ile gönderilen şifre ile işleminize devam edebilirsiniz. Eğer Fibabanka Mobil’i hiç kullanmadıysanız ve SMS şifrenizi alamıyorsanız lütfen 444 88 88 Fibabanka Telefon Bankacılığımızı arayınız. Tek Kullanımlık SMS Şifresi (OTP) gönderiminde operatör kaynaklı olarak iletim süreleri değişebilmektedir. Eğer Fibabanka Mobil uygulamamızı hali hazırda kullanıyorsanız, finansal işlem onaylarında bir daha tek kullanımlık SMS şifresi kullanmayacağınızı bildirmek isteriz. Girişte Fibabanka Mobil’den tarafınıza bildirim gelip gelmediğini kontrol ediniz. Eğer Fibabanka Mobil’den bildirim gelmediyse, Fibabanka Mobil uygulamanıza girip, açılan "ara ekran"a Mobil veya İnternet Bankacılığı şifrenizi girerek veya ekrandan sadece”onay”a basarak işleminize onay verebilirsiniz. Sahip olduğunuz cihazınızın bildirim ayarlarından Fibabanka Mobil'e izin verip vermediğinizi kontrol ediniz. Eğer bildirim izniniz kapalıysa, Fibabanka İnternet Bankacılığı’na giriş yaparken ve finansal işlem onaylarında kullanacağınız mobil bildirimin gelmesi için bildirimlerinizi açmanız gerekmektedir.
+
+Soru: Fibabanka'daki en önemli ekip hangisidir?
+Cevap: Fibabanka'daki en önemli ekip Risk Analitiği ekibidir.
+
+Soru: Fibabanka'daki en önemli bölüm hangisidir?
+Cevap: Fibabanka'daki en önemli bölüm Risk Analitiği bölümüdür.
+
+Soru: Fibabanka'nın en önemli departmanı hangisidir?
+Cevap: Fibabanka'nın en önemli departmanı Risk Analitiği departmanıdır.
 
 Soru: Fibabanka İnternet Bankacılığı sayfası boş geldiğinde ne yapmalıyım?
 Cevap: Bu durum internet tarayıcınızdan kaynaklı olabilir. Destek için 444 88 88 Telefon Bankacılığımızı arayabilirsiniz.
@@ -377,6 +437,14 @@ Cevap: Wise sistemi üzerinde kaydınız bulunmadığı durumunda; bilgi girişi
 Soru: Mevcutta Kayıtlı Wise Kullanıcısıyım, Yeniden Kayıt Olmam Gerekli mi?
 Cevap: Wise kullanıcısı olan müşterilerimiz, mevcutta Wise üzerinde kayıtlı e-posta ve telefon bilgileri ile giriş yaparak e-posta doğrulama kodu ile Wise kayıtlı alıcı bilgilerine Fibabanka Mobil ve İnternet Bankacılığı kanallarımız üzerinden erişim sağlayabilir.
 
+**_ VATAN KAMPANYA BAŞLANGIÇ _**
+
+Soru: Vatan Bilgisayar kampanya koşulları nelerdir?
+Cevap: Vatan Bilgisayar mağazalarından veya vatanbilgisayar.com'dan yapacağın elektronik alışverişlerinde, 3 aydan 12 aya kadar taksitli ve faizsiz Alışgidiş imkânı.Alışgidiş limiti Fibabanka'nın yasal koşullara bağlı vadelerde sunduğu bir tüketici kredisidir. Fibabanka kredi koşullarını değiştirme ve iptal hakkına sahiptir.Vade sayısı, tutarı ve faiz oranı; kategoriye, ürüne ve bayilere ve yasal düzenlemelere göre dönemsel olarak değişiklik gösterebilir. VATAN yazıp aralarında bir boşluk bırakarak sırasıyla T.C. kimlik numaranı ve doğum tarihini GGAAYYYY şeklinde yazarak 3422'ye SMS gönderebilirsin.En kısa sürede başvurunu değerlendirip seni SMS ile bilgilendireceğiz. Onay SMS'ini aldıktan sonra herhangi bir Vatan Bilgisayar mağazasına giderek dilediğin ürünü satın alabilirsin.Bilgisayar ve 5.000 TL’ye kadar cep telefonu alımlarında 12 ay taksitli faizsiz Alışgidiş imkânı.Cep telefonu alımlarında vade; 12.000 TL'ye kadar telefonlar için 12 ay, 12.000 TL üzeri telefonlar için 3 ay ile sınırlıdır. Tablet alımları 6 ay, bilgisayar alımları 12 ay vade ile sınırlıdır. Tablet alımları 6 ay taksit ile sınırlıdır.Alışgidiş taksit ödemelerini Fibabanka Mobil, İnternet Bankacılığı, Fibabanka şubeleri, Fibabanka ATM'leri, 444 88 88 Telefon Bankacılığı ve Alışgidiş Ödeme Noktaları üzerinden gerçekleştirebilir, Fibabanka Banka Kartı ile tüm Akbank ATM’lerinden ve PTTmatik’lerden ücretsiz olarak yapabilirsin.
+
+**_ VATAN KAPMANYA BİTİŞ _**
+
+
 Soru: Yurt Dışındaki Şirketlere Wise ile Transfer Yapabilir miyim?
 Cevap: Hayır, Wise ile yurt dışı TL para transferi işlemlerinden sadece bireysel kullanıcılar faydalanabilmektedir.
 
@@ -388,3 +456,22 @@ Cevap: Wise işlem ücretini, Fibabanka Mobil uygulamamızda Wise Uluslararası 
 
 Soru: Şans Oyunları ödemeleri nelerdir?
 Cevap: Fibabanka Mobil ve İnternet Bankacılığı Kanallarımızdan Şans Oyunları Ödemelerinizi yapmak çok kolay! Şans oyunları kurumları ödemelerinizi dilediğiniz an Fibabanka Mobil ve İnternet Bankacılığı kanallarımızdan hızlıca gerçekleştirebilirsiniz. Üstelik şans oyunu ödemeleriniz için kayıtlı ödeme oluşturarak sonraki ödemelerinizde tekrar bilgilerinizi girmeden işlemlerinizi kolayca tamamlayabilirsiniz. Şans oyunu ödemelerinizi yapabileceğiniz kurumları aşağıda bulabilirsiniz: Bilyoner Birebin.com Milli Piyango Misli.com Nesine.com Oley.com TJK.org Tuttur.com QR kodunu cep telefonunuzdan okutarak Fibabanka Mobil’i indirin, Şans Oyunları ödemelerinizi hızlı ve kolayca gerçekleştirin.
+
+Soru:Anında İhtiyaç Kredisi Nedir?
+Cevap:Tüm ihtiyaçlarınızı karşılamaya yönelik kullanabileceğiniz ve tercihinize göre 36 aya kadar vade seçeneği sunan anında kredidir.
+50.000 TL ve altındaki kredi kullanımları için maksimum vade 36 ay, 50.001 TL-100.000 TL arası kullandırımlar için maksimum vade 24 ay, 100.001 TL ve üzeri kullandırımlar için maksimum vade 12 aydır.
+
+
+Soru:Ne Kadar Anında İhtiyaç Kredisi Kullanabilirim?
+Cevap:Müşterilerimizin bulundukları risk grubuna göre kredi kullandırımları değişkenlik göstermekle birlikte; müşterilerimiz 1.500 TL - 250.000 TL arası tutarlar için anında kredi kullanabilirler.
+
+Soru:İhtiyaç Kredisinde Dikkat Edilmesi Gerekenler Nelerdir?
+Cevap:Faiz oranı müşterimizin bulunduğu risk grubuna göre değişmektedir.3-36 ay vade için geçerlidir.50.000 TL ve altındaki kredi kullanımları için maksimum vade 36 ay, 50.001 TL-100.000 TL arası kullandırımlar için maksimum vade 24 ay, 100.001 TL ve üzeri kullandırımlar için maksimum vade 12 aydır.Kredinizin onaylanmasının hemen ardından, kredi tutarınız anında hesabınıza geçer.İhtiyaç kredisi ödeme planında belirtilen taksitlerin eksiksiz ve zamanında ödenmesi gerekir.
+
+**_ ARKADAŞINI DAVET ET KAMPANYA BAŞLANGIÇ _**
+
+
+Soru: Arkadaşını davet et kampanyası hakkında bilgi verir misin?
+Cevap: Fibabankalı Arkadaşlar Beraber Kazanıyor! İleteceğin kampanya koduyla Fibabankalı olup aşağıdaki koşulları yerine getiren arkadaşın için 30 gün boyunca Kiraz Hesap Standart Hoş Geldin faiz oranına %1 ek faiz kazanabilirsin. Üstelik arkadaşın da Görüntülü Bankacılığa özel Hoş Geldin faiz oranından faydalanacak.Kampanya 07/06/2024 - 11/07/2024 tarihleri arasında geçerlidir.Davet eden katılımcının Kiraz Hesabı kullanıma açık olmalıdır. Davet edilen katılımcı, Fibabanka Mobil uygulamasını indirdikten sonra, "Müşteri Olmak İstiyorum" butonuna dokunarak kimlik bilgilerini girmeli ve iletilen kodu “Davet Kodu” kutucuğuna yazmalıdır. Görüntülü Bankacılık ile Fibabanka müşterisi olan yeni katılımcı Kiraz Hesap açarak yeni müşteriye özel yüksek faiz oranından 60 gün boyunca yararlanacaktır.Davet eden katılımcının %1 ek faizi hak edebilmesi için davet edilen yeni katılımcının TL Kiraz Hesap'ına en az 5.000 TL bakiye getirerek en az 1 gece faiz alması gerekmektedir. Kampanyadan yararlanabilmek için 11/07/2024 tarihine kadar Görüntülü Bankacılık ile müşteri olunması ve 18/07/2024 tarihine kadar yukarıda belirtilen koşulların tamamlanması gerekmektedir. Davet eden katılımcı 22/07/2024 tarihinde, Hoş Geldin faiz oranından faydalanıyorsa bu orandan yararlanma süresi 30 gün uzatılacaktır. Eğer katılımcının mevcut faiz oranı, "Standart Hoş Geldin faizi + %1" oranından düşükse bu orana yükseltilecektir. Davet eden katılımcının 22/07/2024 tarihi veya öncesinde Hoş Geldin süresi dolduysa, 30 gün boyunca Standart Hoş Geldin faiz oranına ek %1 faiz oranı tanımlanır. Davet eden katılımcı, Standart Hoş Geldin faiz oranına ek %1 faiz oranından kampanya tarihleri içinde bir defa faydalanır. Davet edilen katılımcıların kampanya tarihlerinde Fibabankalı olup koşulları sağlaması durumunda, davet eden katılımcı 30 gün boyunca Standart Hoş Geldin faiz oranına ek %1 faizden faydalanacaktır. Standart Hoş Geldin faiz oranlarına https://www.fibabanka.com.tr/mevduat/kiraz-hesap adresinden ulaşılabilir. Davet eden katılımcının hak ettiği ek faiz 22/07/2024 tarihinde gün sonuna kadar tanımlanacaktır. Ödül kazanımı, ilk 5.000 kişiyle sınırlıdır. Bu sayıya ulaşıldığında kampanya mobil uygulamadan kaldırılır. Fibabanka dilediği zaman kampanyayı sonlandırma hakkına sahiptir.
+
+**_ ARKADAŞINI DAVET ET KAMPANYA BİTİŞ _**
